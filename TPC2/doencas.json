@@ -1,0 +1,2413 @@
+{
+    "Abcesso dentário": {
+        "descricao": "Um abcesso dentário é nada mais nada menos que uma bolsa de pus provocada por uma infeção bacteriana e que pode surgir em diferentes regiões do dente.",
+        "causas": "A formação dos abcessos pode ter duas causas principais: as cáries ou a agressão dos tecidos próximos dos dentes.",
+        "sintomas": [
+            "Dor de dentes intensa, persistente e latejante;",
+            "Sensibilidade a temperaturas quentes e frias;",
+            "Sensibilidade à pressão feita pela mastigação ou mordedura;",
+            "Febre;",
+            "Inchaço no rosto ou na bochecha;",
+            "Sensibilidade e inchaço dos gânglios linfáticos na parte inferior do maxilar ou no pescoço;",
+            "Afluxo súbito de líquido malcheiroso e com sabor desagradável na boca e alívio da dor, se o abcesso rebentar."
+        ],
+        "tratamento": "Atualmente, o tratamento dos abcessos faz-se à base de antibióticos e da drenagem do pus no local. O estado em que se encontra o abcesso é determinante para a escolha do tratamento."
+    },
+    "Abcessos cutâneos": {
+        "descricao": "Os abcessos cutâneos são manifestações purulentas, que surgem na pele, causadas por uma infeção bacteriana. Dolorosos ao toque podem surgir em qualquer parte do corpo.",
+        "causas": "A formação de um abcesso deve-se a uma infeção bacteriana a partir de microorganismos como os streptococcus, gonococos e, principalmente, estafilococos, que invadem o organismo através de pequenas perfurações ou lesões, obstrução das glândulas do suor e das glândulas sebáceas e pela inflamação dos folículos pilosos.",
+        "sintomas": [
+            "Inflamação com ou sem dor",
+            "Nódulo",
+            "Edema",
+            "Sensibilidade local",
+            "Febre"
+        ],
+        "tratamento": "O tratamento é habitualmente feito através da incisão e drenagem do pus."
+    },
+    "Abstinência Alcoólica": {
+        "descricao": "A Síndrome de Abstinência Alcoólica caracteriza-se por um conjunto de sintomas observados em pessoas que interrompem o consumo de álcool após história de dependência. Os sintomas surgem, habitualmente, entre 48 a 96 horas após interrupção.",
+        "causas": "De acordo com a literatura, o consumo agudo de álcool tem um efeito inibitório nos recetores N-metil-D-aspartato (NMDA) e tem um efeito agonista nos recetores GABAA, reduzindo a neuro transmissão excitatória, enquanto que a ingestão crónica tem efeitos diferentes nos mesmos recetores. Deste modo, quando a ingestão de álcool é interrompida durante um período de tempo, leva a um aumento da regulação dos recetores N-metil-D-aspartato e uma diminuição dos recetores GABAA como parte da resposta homeostática do corpo humano (Sana et al.,2003) e esta adaptação é que enfatiza a hiperexcitabilidade e muitos dos sintomas que provem da abstinência.",
+        "sintomas": [
+            "As manifestações clínicas podem variar tendo em conta o histórico de consumo, as quantidades ingeridas ao longo dos anos, idade ou predisposição genética. No entanto, entre os principais sintomas estão:"
+        ],
+        "tratamento": "O tratamento tem como objetivo diminuir os sintomas, prevenir possíveis complicações e dissuadir o consumo de álcool."
+    },
+    "Acne": {
+        "descricao": "Atinge cerca de 80% da população com idade compreendida entre os 12 e os 24 anos, pelo que se pode dizer que esta é a doença inflamatória da pele mais frequente em todo o mundo.",
+        "causas": "As alterações hormonais são apontadas como as principais responsáveis pelo aparecimento da acne. As hormonas envolvidas neste processo são os “andrógenos”, com ação sobre as glândulas de gordura da pele, em determinadas localizações – face, tronco, couro cabeludo. Elas atuam aumentando a produção de sebo na pele e contribuindo para a condição de “hiperseborreia” que, associada a outros fatores, como a proliferação de bactérias, inflamação ou alterações no processo de queratinização da pele, conduzem ao aparecimento das lesões iniciais de acne – os comedões (vulgarmente designados por “pontos negros” ou “pontos brancos”). Quanto maior a inflamação que se observa, mais graves são as suas manifestações.",
+        "sintomas": [
+            "Pontos negros",
+            "Pontos brancos",
+            "Pápulas",
+            "Pústulas",
+            "Nódulos",
+            "Quistos"
+        ],
+        "tratamento": "O seu tratamento vai depender da gravidade da doença. No entanto, este permite reduzir a inflamação tornando a pele mais saudável."
+    },
+    "Acromegalia": {
+        "descricao": "Caracterizado pela produção excessiva da hormona do crescimento (GH), este quadro clínico, que resulta na deformação dos ossos nos adultos, pode surgir ainda na infância designando-se por Gigantismo.",
+        "causas": "Em cerca de 90% dos casos, a produção excessiva da hormona do crescimento resulta de um tumor (benigno) da hipófise, conhecido por adenoma.",
+        "sintomas": [
+            "Maxilar protuberante",
+            "Testa saliente",
+            "Rugas vincadas",
+            "Nariz grande",
+            "Lábios grossos",
+            "Voz rouca",
+            "Transpiração excessiva",
+            "Pele oleosa ou acne",
+            "Ciclos menstruais irregulares (nas mulheres)",
+            "Alterações na visão",
+            "Dores de cabeça e articulares",
+            "Cansaço",
+            "Formigueiro nos membros superiores e inferiores",
+            "Insuficiência Cardíaca"
+        ],
+        "tratamento": "O tratamento da Acromegalia pode ser feito com a combinação de cirurgia, radioterapia ou com recurso a terapia medicamentosa."
+    },
+    "Aerocolia": {
+        "descricao": "Caracterizada pela acumulação excessiva de ar no intestino, a Aerocolia é uma condição benigna que resulta em distensão abdominal. Em alguns casos, dada a intensidade dos sintomas, pode ser altamente incapacitante.",
+        "causas": "A presença de gases no intestino é bastante comum, estando habitualmente associada à dieta (sobretudo a uma dieta pobre em nutrientes e rica em gorduras e açúcar). Nestes casos, há que ter atenção aos hidratos de carbono simples ou de absorção rápida, também conhecidos como açúcares e que existem de forma natural em muitos alimentos. É o caso da lactose presente no leite ou a frutose presente na fruta.",
+        "sintomas": [
+            "Inchaço",
+            "Dores ou espasmos abdominais",
+            "Gases",
+            "Eructações (arrotos)"
+        ],
+        "tratamento": "O tratamento passa sobretudo pela adoção de uma dieta mais saudável e por ter bons hábitos alimentares:"
+    },
+    "Aerofagia": {
+        "descricao": "A aerofagia é uma condição caracterizada pela deglutição involuntária e excessiva de ar que se acumula no estômago, dando origem a sintomas gastrointestinais desconfortáveis. A aerofagia pode ser crónica ou aguda e pode estar relacionada a fatores físicos e psicológicos.",
+        "causas": "A aerofagia pode ser causada por comer demasiado rápido (taquifagia), por comer alimentos que aumentem a produção de gases (feijão, grão, castanhas, espargos, brócolos, cebolas, leite) ou pela presença de bactérias no intestino (neste caso, dando origem a aerocolia).",
+        "sintomas": [
+            "distensão abdominal",
+            "inchaço",
+            "arroto",
+            "flatulência"
+        ],
+        "tratamento": "Enquanto a Aerocolia pode ser tratada com recurso a alguns medicamentos, a Aerofagia pressupõe a alteração de alguns hábitos diários:"
+    },
+    "Afeções Gástricas e Esofágicas": {
+        "descricao": "Os termos de indigestão e dispepsia são geralmente intermutáveis e são referentes a um conjunto de sintomas do sistema digestivo superior que estão habitualmente associados à ingestão de alimentos.",
+        "causas": "A indigestão é também conhecida como dispepsia não ulcerosa ou funcional, sem causa grave aparente estando associada à ingestão de alimentos.",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Afonia": {
+        "descricao": "A afonia pode atingir qualquer pessoa em qualquer momento da vida. Caracterizada pela perda parcial ou total da voz, a afonia pode surgir associada a comportamentos de risco como fumar ou falar muito alto e durante longos períodos de tempo.",
+        "causas": "A afonia está, habitualmente, associada a condições físicas que afetam a as cordas vocais ou vias aéreas, tais como:",
+        "sintomas": [
+            "Incapacidade de falar ou incapacidade de falar mais alto que um sussurro",
+            "Rouquidão",
+            "Espasmo das cordas vocais",
+            "Dor de garganta",
+            "Dificuldade em engolir",
+            "Tosse",
+            "Inchaço"
+        ],
+        "tratamento": "O tratamento dependerá das causas associadas à perda de voz. Há, no entanto, um conjunto de medidas que o podem ajudar em qualquer dos casos:"
+    },
+    "Aftas": {
+        "descricao": "As aftas são pequenas feridas ou úlceras dolorosas que aparecem na mucosa bucal. Surgem habitualmente na face interna das bochechas, nos lábios ou na língua. São habitualmente rasas e arredondadas de cor vermelha ou esbranquiçada, provocando dor ou desconforto a comer, beber e falar.",
+        "causas": "Nem sempre é possível associar uma causa para o seu desenvolvimento, no entanto, há um conjunto de fatores que podem condicionar o aparecimento de pequenas feridas:",
+        "sintomas": [
+            "Dor",
+            "Dificuldade em falar",
+            "Desconforto a comer ou beber"
+        ],
+        "tratamento": "O tratamento consiste em aliviar a dor até que as feridas sarem de forma espontânea, e pode incluir:"
+    },
+    "Alcoolismo": {
+        "descricao": "O conceito de Alcoolismo como doença e não apenas vício, desenvolve-se só na segunda metade do século XIX.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Alcoolismo Agudo": {
+        "descricao": "O álcool é um depressor do cérebro e actua directamente em diversos órgãos, tais como o fígado, coração, vasos e na parede do estômago.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Alcoolismo Crónico": {
+        "descricao": "Para se fazer o diagnóstico de dependência alcoólica – alcoolismo crónico - é necessário que o utilizador tenha problemas decorrentes do uso de álcool durante 12 meses seguidos e preencher pelo menos 3 dos segu",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Alergia": {
+        "descricao": "A alergia é uma reacção do sistema imunológico a uma série de substâncias como fungos, poeira, pólen, medicamentos, pêlos de animais, produtos de limpeza, picada de insectos e vários outros.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Alergia alimentar": {
+        "descricao": "A alergia alimentar ocorre quando o sistema imunitário (defesas do organismo) acredita que uma substância alimentar inofensiva para o organismo, é perigosa, e reage libertando histamina e outras substâncias para “combater” o “intruso”.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Alopecia": {
+        "descricao": "Trata-se da redução parcial ou total de pêlos ou cabelos em uma determinada área de pele. Afecta ambos os sexos, embora seja mais frequente nos homens.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Alzheimer": {
+        "descricao": "A doença de Alzheimer é uma doença neurodegenerativa que provoca uma deterioração global, progressiva e irreversível de diversas funções cognitivas (memória, atenção, concentração, linguagem, pensament",
+        "causas": "A causa exacta da doença de Alzheimer ainda não está determinada, apesar da contínua investigação nesta área.",
+        "sintomas": [
+            "Os primeiros sinais da doença são pequenos esquecimentos, perdas de memória, normalmente aceites pelo próprio e pelos familiares como parte do processo normal de envelhecimento, mas que ao longo do tempo se vão agravando gradualmente."
+        ],
+        "tratamento": "Actualmente não existe cura para a doença de Alzheimer, no entanto, existem medicamentos que possibilitam o tratamento sintomático de grande parte das alterações cognitivas e comportamentais. Embora não possam evitar a progressiva perda neuronal, os medicamentos existentes podem ajudar a estabilizar e a minimizar alguns sintomas."
+    },
+    "Amebíase": {
+        "descricao": "Infecção no intestino causada pelo parasita Entamoeba histolytica que pode ser activo (trofozoíto) ou inactivo (quistos).",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Amenorreia": {
+        "descricao": "A amenorreia é a ausência completa de menstruação, quer seja porque nunca tenha aparecido anteriormente (amenorreia primária), quer porque foi interrompida depois de ter aparecido (amenorreia secundária).",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Amigdalite": {
+        "descricao": "A amigdalite aparece geralmente como parte de uma infecção generalizada da faringe (garganta), e os sintomas mais comuns são dores de garganta, dificuldade na deglutição, febre, perda de apetite e arrepios. Os gânglios do pescoço podem aparecer inflamados e sensíveis.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Anemia na gravidez": {
+        "descricao": "A anemia caracteriza-se pela diminuição do número de células que transportam o oxigénio - glóbulos vermelhos e/ou pela diminuição duma molécula que existe no interior destas células e que é responsável pela fixação e transporte do oxigénio. Esta molécula chama-se hemoglobina.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Angina de peito ou Angina “pectoris”": {
+        "descricao": "A angina do peito, ou angina pectoris, é uma dor ou desconforto transitório localizado na região anterior do tórax, percebido como uma sensação de pressão, aperto ou queimadura.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Angioma": {
+        "descricao": "Estruturas vasculares avermelhadas, planas ou em forma de cúpula, os angiomas são lesões benignas e não constituem motivo de preocupação.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Anorexia nervosa": {
+        "descricao": "A anorexia nervosa, também simplesmente conhecida como anorexia, é um transtorno alimentar que provoca no indivíduo tanto medo de ganhar peso e/ou gordura corporal que se limita severamente a quantidade de comida que ingere.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Apendicite aguda": {
+        "descricao": "O apêndice é um segmento pequeno e com forma de dedo que sobressai do intestino grosso, perto do ponto onde este se une ao intestino delgado (cego). O apêndice pode ter uma função do tipo imunológico, mas não é um órgão essencial. A apendicite é a inflamação do apêndice.",
+        "causas": "",
+        "sintomas": [
+            "Menos de metade das pessoas com apendicite aguda tem todos os sintomas mais característicos: náuseas e vómitos, e dor muito intensa na parte inferior direita do abdómen. A dor pode começar repentinamente na parte superior do abdómen ou à volta do umbigo; depois, aparecem as náuseas e os vómitos. Ao fim de algumas horas, desaparecem as náuseas e a dor desloca-se para o quadrante inferior direito do abdómen. Quando o médico pressiona esta área, aparece dor e quando, subitamente, retira a mão, ela pode tornar-se mais aguda (sinal de descompressão positivo). É frequente a febre entre 37,5ºC e 38ºC."
+        ],
+        "tratamento": "Uma análise ao sangue mostra um aumento moderado na contagem de glóbulos brancos, em resposta à infecção. Normalmente, nas fases iniciais da apendicite aguda, os testes [como a radiologia, a ecografia e a tomografia axial computadorizada (TAC)] não são úteis."
+    },
+    "Apneia do sono": {
+        "descricao": "A apneia resulta de uma obstrução nas vias aéreas superiores, havendo vários mecanismos inerentes ao sono que favorecem esta obstrução, designadamente oclusão esfincter velo-faríngeo.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Artrite reumatóide": {
+        "descricao": "É uma doença reumática inflamatória crónica de etiologia desconhecida. Pode surgir em qualquer idade mas é mais frequente aparecer entre os 25 e os 50 anos. O sexo feminino é mais afectado e calcula-se que cerca de 1 por cento da população sofra desta doença.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Asma": {
+        "descricao": "A asma é uma doença inflamatória crónica das vias aéreas que ataca o sistema respiratório, que resulta na redução ou até mesmo obstrução no fluxo de ar.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Ataque epiléptico": {
+        "descricao": "Os sintomas da epilepsia, ou dito correctamente, de uma crise epiléptica, são definidos pelos doentes como singulares impressões sensoriais. Na prática o doente exibe sintomas convulsivos, contracções musculares involuntárias e desmaios.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Aterosclerose": {
+        "descricao": "Aterosclerose é um termo geral que designa várias doenças nas quais se verifica espessamento e perda de elasticidade da parede arterial.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Balanite": {
+        "descricao": "Inflamação da glande do pénis. Embora a inflamação da glande seja, na maioria dos casos, provocada por uma infecção, nos restantes casos, pode ter várias origens.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Balanopostite": {
+        "descricao": "Trata-se de uma inflamação conjunta da glande e prepúcio desencadeada por diversos factores.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Barotraumatismo": {
+        "descricao": "Consiste na lesão do ouvido, resultante das alterações da pressão atmosférica ou da pressão da água nesta região. Acontece nomeadamente a pilotos e mergulhadores.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Beribéri": {
+        "descricao": "Doença provocada por carência de vitamina B1 (tecnicamente chamada avitaminose B1) que provoca fraqueza muscular e dificuldades respiratórias. Pode afectar o coração, dando origem a uma cardiomiopatia por deficiência nutricional chamada de Beribéri cardíaco.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Bipolar": {
+        "descricao": "Nome dado à perturbação anteriormente designada por doença maníaco-depressiva. Afecta cerca de 2 por cento da população e tem, habitualmente, início entre os 10 e os 40 anos.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Blefarite": {
+        "descricao": "Inflamação das pálpebras, produzida por uma infecção provocada pela existência excessiva de bactérias na pele, por uma dermatite seborreica na cara ou couro cabeludo ou por estes dois factores.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Blenorragia": {
+        "descricao": "A blenorragia ou gonorreia é uma doença sexualmente transmissível (DST), causada pela bactéria Neisseria gonorrhoeae, ou gonococo, em que há infecção da uretra, do colo uterino, garganta ou olhos pela acção da bact",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Boca seca": {
+        "descricao": "Xerostomia ou boca seca caracteriza-se por redução ou falta de saliva, que pode ser induzida por obstrução mecânica à secreção de saliva, por medicamentos (tabela 1) ou por patologias como o Síndroma de Sjögran.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Bócio": {
+        "descricao": "Aumento da glândula tiroideia que pode ser difuso ou nodular e que pode ser acompanhada ou não pela alteração da função.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Botulismo": {
+        "descricao": "Trata-se de uma intoxicação alimentar, potencialmente mortal, que pode causar danos graves aos nervos e músculos e causada pelas toxinas produzidas pela bactéria Clostridium botulinum.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Bronquite": {
+        "descricao": "Designa-se pela inflamação dos brônquios. Existem dois tipos de bronquite, a aguda, geralmente causada por vírus ou bactérias e pode durar vários dias e até semanas, e a bronquite crónica com duração de anos, e que não é, necessariamente, causada por uma infecção.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Bronquite aguda": {
+        "descricao": "Frequentemente causada por vírus que infectam o epitélio dos brônquios, resultando em inflamação e aumento da secreção de muco. Geralmente desenvolve-se durante o curso de uma infecção respiratória, como a gripe comum.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Bronquite crónica": {
+        "descricao": "A bronquite crónica é uma doença que afecta os pulmões dificultando a função respiratória. A bronquite crónica é causada por uma lesão recorrente ou irritação do epitélio respiratório dos brônquios, resultando em crónica a inflamação, edema (inchaço), e aumento da produção de muco.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Brucelose": {
+        "descricao": "Conhecida também como febre-de-malta, estamos perante uma infecção causada pela bactéria brucella transmitida pelos lacticínios não pasteurizados.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Bruxismo": {
+        "descricao": "Comportamento inconsciente que consiste no hábito de ranger e friccionar os dentes e que se acredita estar ligado à ansiedade e ao stress, bem como à forma como os dentes se ajustam.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Cálculo renal": {
+        "descricao": "O cálculo renal, também designado por pedra nos rins ou litíase renal, é uma massa dura formada por cristais que se separam da urina e se unem para formar pedras nos rins. Sob condições normais, a urina contém substâncias que previnem a formação desses cristais.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Cancro": {
+        "descricao": "Doença caracterizada por uma população de células que cresce e se divide sem respeitar os limites normais, invade e destrói tecidos adjacentes, e pode espalhar-se para lugares distantes no corpo através de um processo chamado metástase.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Cancro da bexiga": {
+        "descricao": "Há várias formas de cancro da bexiga, que podem manifestar-se de diferentes maneiras. São bem mais frequentes nos homens do que nas mulheres e sua incidência aumenta com a idade, geralmente após os 60 anos, sendo raro antes dos 40.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Cancro de Cabeça e Pescoço": {
+        "descricao": "A designação de Cancro da Cabeça e Pescoço refere-se a um conjunto de tumores malignos que têm origem em órgãos da cabeça e/ ou do pescoço, agrupando todos os cancros das vias aerodigestivas superiores, como o cancro da laringe, o cancro da cavidade oral, cancro da língua, cancro da orofaringe,",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Carcinoma Basocelular": {
+        "descricao": "O carcinoma basocelular, ou basalioma,é um tumor da pele, de crescimento lento, que a maioria das vezes aparece na pele exposta ao sol.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Carcinoma de Células Escamosas": {
+        "descricao": "O carcinoma de células escamosas, ou carcinoma espinocelular, muitas vezes tem origem em queratoses actínicas e assemelha-se ao carcinoma basocelular. No entanto, a superfície é geralmente mais elevada e dotada de uma crosta. Por vezes pode ser confundido com uma verruga.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Cárie dentária": {
+        "descricao": "Trata-se de uma cavidade (outra forma de dizer dentes cariados) em que o esmalte é a primeira área a ser atingida, seguindo-se a dentina e posteriormente a polpa dentária.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Catarata": {
+        "descricao": "Uma catarata é uma opacidade (névoa) no cristalino do olho que dificulta a visão. As cataratas provocam uma perda progressiva e indolor da visão.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Cirrose hepática": {
+        "descricao": "É uma doença que conduz à destruição do fígado. É também chamada de doença hepática crónica e caracteriza-se pela morte das suas células (necrose), aparecimento de cicatrizes (fibrose) e alteração da sua estrutura (regeneração nodular). Crónica significa que se estende por meses ou anos.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Cistite": {
+        "descricao": "A cistite é uma infecção (inflamação) da bexiga. Em geral, é causada pela bactéria Escherichia coli, presente no intestino e importante para a digestão. No tracto urinário, porém, essa bactéria pode infectar a uretra (uretrite), a bexiga (cistite) ou os rins (pielonefrite).",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Clamídia": {
+        "descricao": "Infeção bacteriana transmitida sexualmente, de maior prevalência nos adolescentes e adultos jovens.\nAgente: Chlamydia trachomatis",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Cleptomania": {
+        "descricao": "Trata-se de um distúrbio psicopatológico cuja principal característica é o fracasso recorrente em resistir ao impulso de furtar objectos, completamente desnecessários para o uso pessoal e desprovidos de valor monetário.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Cólera": {
+        "descricao": "A cólera é uma infecção do intestino delgado causada pela bactéria Vibrio cholerae. As bactérias da cólera produzem uma toxina que faz com que o intestino delgado segregue quantidades imensas de um líquido rico em sais e minerais.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Colesterol": {
+        "descricao": "Podemos encontrar o colesterol em todas as células do nosso organismo. O colesterol é usado no nosso corpo para construir células saudáveis, e é essencial para a produção de algumas hormonas vitais.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Cólica abdominal": {
+        "descricao": "Uma recente pesquisa global mostra que praticamente um quarto da população é afectada por dor e cólicas abdominais. A pesquisa mostrou que 22% dos homens e 31% das mulheres sofre de cólicas, dor ou desconforto abdominal.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Colite": {
+        "descricao": "Também denominada síndrome do cólon irritável, refere-se a uma condição inflamatória do intestino, cuja origem é ainda pouco clara, podendo depender de factores imunológicos, infecciosos ou até da predisposição genética.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Colite ulcerosa": {
+        "descricao": "A colite ulcerosa é uma doença crónica em que o intestino grosso se inflama e úlcera, provocando diarreia com sangue, cólicas e febre. Pode começar em qualquer idade, mas normalmente surge entre os 15 e os 30 anos.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Coma": {
+        "descricao": "Estado no qual uma pessoa perde completa ou parcialmente a consciência, não tem reacções nervosas ou reage pouco ou nada aos estímulos externos.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Congestão nasal": {
+        "descricao": "Embora habitualmente associada ao aumento das secreções nasais, a congestão nasal, ou nariz entupido como é popularmente conhecido, é devida a uma inflamação da mucosa que dá origem à dilatação dos vasos sanguíneos, aumento da permeabilidade capilar e consequente edema.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Conjuntivite": {
+        "descricao": "A conjuntivite é uma inflamação da conjuntiva, geralmente causada por vírus, por bactérias ou por uma alergia.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Creutzfeldt-Jakob, Doença de": {
+        "descricao": "A doença de Creutzfeldt-Jacob (encefalopatia espongiforme subaguda) é uma infecção progressiva, inevitavelmente mortal, que produz espasmos musculares e uma perda progressiva da função mental. Existe em todo o mundo, mas pouco se sabe de como se transmite.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Crohn, Doença de": {
+        "descricao": "A doença de Crohn é uma inflamação crónica que pode atingir qualquer região do tubo digestivo, desde a boca até ao ânus, embora se localize, mais frequentemente, no último segmento do intestino delgado (íleon) e no intestino grosso.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Crupe": {
+        "descricao": "O crupe é uma infecção viral contagiosa dos canais respiratórios superiores que provoca dificuldade em respirar, sobretudo ao inspirar. Pode ser causado por muitos vírus diferentes, mas no Outono, o vírus parainfluenza é a causa mais provável.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Daltonismo": {
+        "descricao": "O daltonismo (também chamado de discromatopsia ou discromopsia) é uma perturbação da percepção visual onde se vê várias cores caracterizada pela incapacidade de diferenciar todas ou algumas cores, sendo as mais frequentes o vermelho e o verde.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Delirium Tremens ": {
+        "descricao": "É a forma mais intensa e complicada da síndrome de abstinência.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Depressão": {
+        "descricao": "A depressão é uma doença mental que se caracteriza por tristeza mais marcada ou prolongada, perda de interesse por actividades habitualmente sentidas como agradáveis e perda de energia ou cansaço fácil.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Dermatite": {
+        "descricao": "A dermatite (eczema) é uma inflamação das camadas superficiais da pele que é acompanhada de bolhas, vermelhidão, inflamação, supuração, crostas, escamação e, frequentemente, comichão.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Dermatite atópica": {
+        "descricao": "A dermatite atópica é uma inflamação crónica pruriginosa nas camadas superficiais da pele e costuma afectar indivíduos que têm febre dos fenos ou asma, ou então familiares com estas doenças, sendo que os afectados por este tipo de dermatite costumam apresentar muitas outras perturbações alérgica",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Dermatite atópica ou eczema atópico": {
+        "descricao": "A atopia é uma doença adquirida por herança genética que, na pele, causa lesões inflamatórias, designadas por dermatite atópica ou eczema atópico. A pessoa que sofre de atopia, além da dermatite atópica ou eczema atópico, pode apresentar asma ou rinite alérgica.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Dermatite crónica das mãos e dos pés": {
+        "descricao": "A dermatite crónica das mãos e dos pés inclui um conjunto de perturbações em que as mãos e os pés se inflamam e se irritam com frequência. Dá-se em consequência de uma sucessão de contactos com substâncias químicas.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Dermatite de contacto": {
+        "descricao": "A dermatite de contacto é uma inflamação causada pelo contacto com uma determinada substância. A erupção fica confinada a uma área específica e costuma ser bem delimitada.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Dermatite de estase": {
+        "descricao": "A dermatite de estase é uma vermelhidão crónica com escamação, calor e tumefacção (inflamação) que afecta a parte inferior das pernas, cuja pele no fim adquire uma cor castanho-escura.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Dermatite esfoliativa generalizada": {
+        "descricao": "A dermatite esfoliativa generalizada é uma inflamação grave que afecta toda a superfície da pele e evolui para uma vermelhidão extrema acompanhada de grande escamação.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Dermatite numular": {
+        "descricao": "A dermatite numular é uma erupção persistente que geralmente provoca comichão, aliada a uma inflamação caracterizada por manchas com forma de moeda que apresentam bolhas minúsculas, crostas e escamas.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Dermatite por comichão localizada": {
+        "descricao": "A dermatite por comichão localizada (líquen simples crónico, neurodermite) é uma inflamação crónica superficial da pele que provoca uma comichão intensa. Provoca secura, escamação e o aparecimento de placas escuras e grossas de forma oval, irregular ou angulosa.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Dermatite seborreica": {
+        "descricao": "A dermatite seborreica é uma inflamação das camadas superficiais da pele que provoca escamas no couro cabeludo, na cara e, ocasionalmente, noutras zonas. Afecta habitualmente vários membros da mesma família e o clima frio costuma piorá-la.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Dermatofibroma": {
+        "descricao": "É mais frequentemente observado nos membros inferiores dos adultos, mas pode ocorrer em qualquer localização. A lesão apresenta-se como um nódulo firme, deprimido ou elevado, ou como placas, variando em tamanho de alguns milímetros a vários centímetros.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Desnutrição": {
+        "descricao": "A desnutrição é a ingestão ou absorção inadequada de nutrientes necessários para satisfazer as necessidades energéticas e de crescimento do organismo.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Despersonalização": {
+        "descricao": "A perturbação de despersonalização caracteriza-se por sentimentos persistentes ou recorrentes de estar separado do próprio corpo e dos seus processos mentais e, muitas vezes, ocorre depois de o indivíduo experimentar uma situação com perigo de morte, como um acidente, um assalto ou uma tensão ou",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Diarreia": {
+        "descricao": "A diarreia é um aumento no volume, liquidez ou frequência das dejecções. Uma pessoa com uma diarreia provocada por um problema médico significativo normalmente elimina um grande volume de matéria fecal, muitas vezes mais de 0,5 kg de fezes por dia.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Difteria": {
+        "descricao": "Pouco frequente nos países desenvolvidos, trata-se de uma infecção contagiosa causada pela bactéria Corynebacterium difteriae que é transmitida através da tosse e por objectos ou alimentos que estejam contaminados.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Disfagia": {
+        "descricao": "A disfagia pode ser definida como dificuldade de deglutição e que pode conduzir a uma má alimentação e desidratação. Caracteriza-se por um sintoma comum de diversas doenças. Trata-se de um problema que afecta principalmente os idosos que padecem de doenças degenerativas.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Disfunção eréctil": {
+        "descricao": "Também conhecida como impotência sexual, traduz-se na incapacidade em atingir ou manter uma erecção que permita uma relação sexual satisfatória.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Dislexia": {
+        "descricao": "Segundo a Federação Mundial de Neurologia, trata-se de uma perturbação que se manifesta pela dificuldade na aprendizagem da leitura, apesar de uma educação convencional, uma adequada inteligência e oportunidades socioculturais.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Dismenorreia": {
+        "descricao": "Também conhecida como cólica menstrual, é uma dor pélvica que ocorre antes ou durante o período menstrual, que afeta cerca de 50% das mulheres em idade fértil. Pode ser primária ou secundária, dependendo da existência ou não de alterações estruturais do aparelho reprodutivo.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Dispepsia": {
+        "descricao": "(Ver também Indigestão) A dispepsia é uma dor ou um mal-estar na parte alta do abdómen ou no peito que muitas vezes é descrita como ter gases, sensação de estar cheio ou como uma dor corrosiva ou urgente (ardor).",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Diverticulite": {
+        "descricao": "Consiste na inflamação ou infecção de um ou mais divertículos.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Divertículos": {
+        "descricao": "Os divertículos são pequenas dilatações saculares ou bolsas formadas pela exteriorização ou herniação da mucosa e da serosa do cólon através da camada muscular da parede deste órgão. Em regra são de pequena dimensão, desde alguns milímetros até poucos centímetros.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Doença celíaca": {
+        "descricao": "A doença celíaca é uma doença que danifica o aparelho digestivo, intestino delgado,  interferindo com a absorção de nutrientes do alimento.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Doença de Gaucher": {
+        "descricao": "Descrita pela primeira vez em 1882 por um estudante de medicina - Philippe Gaucher -, trata-se de uma doença genética, de transmissão autossómica recessiva e que, em Portugal, atinge cerca de 140 pessoas.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Doença Pulmonar Obstrutiva Crónica ": {
+        "descricao": "A Doença Pulmonar Obstrutiva Crónica (DPOC) é um tipo de doença pulmonar obstrutiva caracterizada pela diminuição prolongada do calibre das vias aéreas respiratórias e destruição do tecido pulmonar. Entre os principais sintomas estão falta de ar e tosse com produção de expetoração.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Dor de dentes": {
+        "descricao": "As medidas tomadas dependem do tipo de dor, que pode associar-se a tumefação, sinal de abcesso dentário ou gengival ou por outras causas que requerem identificação.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "DST (Doenças Sexualmente Transmissíveis)": {
+        "descricao": "São doenças infecciosas que se transmitem essencialmente (porém não de forma exclusiva) pelo contacto sexual (vaginal, oral e/ou anal). O uso de preservativo tem sido considerado como a medida mais eficiente para prevenir a contaminação e impedir sua disseminação.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Ejaculação precoce": {
+        "descricao": "A ejaculação precoce ou prematura é a incapacidade do homem de controlar a ejaculação até o final do acto sexual.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Enurese": {
+        "descricao": "Enurese nocturna primária é a emissão involuntária de urina durante o sono, depois dos cinco anos de idade.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Enxaqueca": {
+        "descricao": "Enxaqueca é um tipo comum de dor de cabeça, intensa e pulsátil (latejante), que normalmente afecta um lado da cabeça. A acompanhar a dor podem surgir sintomas como vómitos, náusea e intolerância à luz (fotofobia) e ao som (fonofobia).",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Epilepsia": {
+        "descricao": "A epilepsia é provocada por uma mutação transitória no mecanismo cerebral, durante a qual os neurónios apresentam, em alguns momentos, uma performance considerada anormal.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Escabiose ou sarna vulgar": {
+        "descricao": "É uma das parasitoses humanas mais frequentes, causada pelo ácaro Sarcoptes scabiei var. hominis , que parasita apenas o ser humano.\nContágio:",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Esclerodermia": {
+        "descricao": "A esclerodermia ou esclerose sistémica é uma doença reumática crónica caracterizada por alterações vasculares, produção de anticorpos dirigidos contra partes do próprios corpo (auto-anticorpos) e aumento da produção de tecido fibroso quer na pele, quer em órgãos internos do corpo.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Esclerose múltipla": {
+        "descricao": "A Esclerose Múltipla é uma doença inflamatória crónica, desmielinizante e degenerativa, do sistema nervoso central que interfere com a capacidade do mesmo em controlar funções como a visão, a locomoção, e o equilíbrio",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Esclerose Tuberosa": {
+        "descricao": "A esclerose tuberosa é um distúrbio hereditário raro que causa o desenvolvimento de nódulos anormais no cérebro, alterações na pele e, às vezes, tumores em órgãos vitais, como o coração, os rins e os pulmões.",
+        "causas": "Trata-se de uma doença genética rara e que afeta quase todos os sistemas de órgãos, no entanto, as suas manifestações variam de doente para doente sendo que algumas podem ser potencialmente fatais.",
+        "sintomas": [
+            "Angiofibromas faciais (tumores avermelhados semelhantes ao acne)",
+            "Máculas hiperpigmentadas (manchas brancas na pele)",
+            "Fibromas ungueais (tumores debaixo das unhas)",
+            "Convulsões e espasmos",
+            "Atraso mental",
+            "Tumor benigno no coração",
+            "Tumor ou nódulo renal",
+            "Tumor ou nódulo cerebral",
+            "Tumor na retina",
+            "Placas fibrosas na fronte e couro cabeludo"
+        ],
+        "tratamento": "Não existindo cura para a doença o tratamento serve apenas para controlo dos sintomas, que variam de doente para doente."
+    },
+    "Escorbuto": {
+        "descricao": "Doença causada pela carência da Vitamina C (ácido ascórbico). Caracteriza-se por debilidade, anemia, gengivite – que pode mesmo resultar na perda total dos dentes – e hemorragias da pele.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Esofagite de refluxo": {
+        "descricao": "Em circunstâncias normais, o conteúdo ácido gástrico não sai para o esófago devido ao esfíncter na parte inferior do esófago (cardia) constituir uma valva sem retorno.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Esquizofrenia": {
+        "descricao": "A Esquizofrenia é uma doença psiquiátrica e é provavelmente a mais angustiante e incapacitante de todas elas. A esquizofrenia é muitas vezes descrita de forma incorrecta como \"desdobramento de personalidade\".",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Estrabismo": {
+        "descricao": "Trata-se de um desalinhamento ocular constante ou ocasional. A população mais afectada é a infantil, mas também pode surgir em adultos, devido a acidente ou traumatismo. É, muitas vezes, congénito, podendo os olhos estarem desviados para dentro ou fora e/ou para cima ou para baixo.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Fabulação": {
+        "descricao": "A Fabulação é uma modalidade especial de alteração da memória e atenção que consiste no relato de temas fantásticos os quais, na realidade, nunca aconteceram. São devaneios nos quais o próprio indivíduo acredita.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Fadiga crónica": {
+        "descricao": "Trata-se de um síndrome crónica, complexo e debilitante (podendo mesmo ser incapacitante) que se caracteriza principalmente pela existência de dores generalizadas, cansaço extremo e perturbações no sono.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Faringite": {
+        "descricao": "A faringite é uma inflamação da faringe, que liga o nariz e a boca à laringe e ao esófago. O processo inflamatório da faringe pode ser causado por infecções virais ou bacterianas, sendo as primeiras mais frequentes e menos graves.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Febre": {
+        "descricao": "Febre é a elevação da temperatura do corpo acima dos valores normais para o indivíduo.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Fenilcetonúria": {
+        "descricao": "Doença genética e hereditária pouco frequente, – detectável por exame de sangue, habitualmente através do teste do pezinho, à nascença – em que o organismo, devido à ausência de uma enzima, não é capaz de metabolizar um aminoácido (fenilalanina), que se encontra nos alimentos proteicos (como ovo",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Fibroma": {
+        "descricao": "Um fibroma é um tumor não canceroso, composto por tecido muscular e fibroso, que se forma na parede uterina. Os fibromas aparecem pelo menos em 20 por cento das mulheres com mais de 35 anos e são mais frequentes entre as mulheres de raça negra do que entre as de raça branca.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Fibromialgia": {
+        "descricao": "É uma síndrome musculo esquelética crónica, não inflamatória e de causa desconhecida. Está na origem de uma incapacidade física e emocional, por vezes grave, que atinge cerca de dois por cento da população.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Fibropapiloma": {
+        "descricao": "É uma lesão benigna da pele muito comum e apresenta-se como uma ou várias pápulas ou nódulos pedunculados, macios, da cor da pele ou ligeiramente hiperpigmentados, predominantemente localizados no pescoço, axilas ou virilhas.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Flatulência": {
+        "descricao": "A flatulência é uma acumulação de gases no intestino (constituídos por várias substâncias, algumas das quais são responsáveis pelo seu mau odor) que se forma quando o organismo utiliza os alimentos para obtenção de energia. Provoca espasmos dolorosos e distensão abdominal.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Fobia social": {
+        "descricao": "Trata-se de um distúrbio muito frequente que facilmente se confunde com timidez ou uma mania e que até há alguns anos era mal compreendido e negligenciado, em parte porque as pessoas que sofriam deste problema o ocultavam e sofriam em silêncio.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Foliculite": {
+        "descricao": "Inflamação de um folículo piloso cuja origem pode, entre outras, ser o barbear, a depilação ou a fricção com a roupa. Na maioria dos casos o folículo afectado é infectado por uma bactéria (estafilococos). Atinge crianças e adultos podendo surgir em qualquer localização onde existam pelos.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Fotossensibilidade": {
+        "descricao": "A fotossensibilidade é a uma reação extrema de sensibilidade da pele quando exposta à luz do Sol ou a fontes luminosas artificiais, induzida por substâncias químicas, e cujos sintomas podem surgir em menos de 30 minutos ou alguns dias após a exposição solar.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Frieira": {
+        "descricao": "As frieiras são zonas de pele inflamadas e que podem adquirir uma coloração vermelha a roxa. A exposição ao frio provoca uma vasoconstrição, dificultando a circulação sanguínea nas extremidades do corpo.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Galactosemia": {
+        "descricao": "A galactosemia é uma doença congénita que tem origem numa deficiência enzimática que pode originar no lactente vómitos, diarreia, icterícia, cirrose e mesmo atraso mental, com lesões cerebrais irreversíveis.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Gargalestesia": {
+        "descricao": "Referente a uma sensibilidade às cócegas.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Gastrite": {
+        "descricao": "A gastrite é uma inflamação do epitélio (revestimento mucoso) estomacal e podem ser agudas ou crónicas.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Gastrite aguda": {
+        "descricao": "A gastrite aguda é uma inflamação do estômago, na maior parte dos casos, uma situação passageira que ou cura em poucos dias ou, no pior dos cenários, evolui para a gastrite crónica. É, quase sempre, tão passageira que raramente se diagnostica.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Gastrite crónica": {
+        "descricao": "Trata-se de uma inflamação prolongada da camada interna que reveste o estômago.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Gengivite": {
+        "descricao": "A gengivite é a inflamação das gengivas. As gengivas inflamadas doem, incham e sangram facilmente. A gengivite é uma inflamação muito frequente e pode aparecer em qualquer momento após o desenvolvimento da dentição.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Gigantismo": {
+        "descricao": "Trata-se de uma anomalia rara causada pela excessiva secreção da hormona do crescimento, com início na infância ou adolescência, em que se regista um desenvolvimento exagerado do esqueleto.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Glaucoma": {
+        "descricao": "É uma doença dos olhos causada pelo aumento gradual da tensão ocular. Lesa a visão e pode mesmo causar cegueira.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Glicemia": {
+        "descricao": "Corresponde ao nível de glucose - açúcar - no sangue. Quando este é demasiado elevado estamos perante a chamada hiperglicemia. Por outro lado, quando o nível de glicemia é inferior ao considerado normal, fala-se de hipoglicemia.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Glossite": {
+        "descricao": "A glossite é um processo inflamatório da língua, que pode surgir por alguma patologia ou traumatismo, designadamente como a deficiência em ferro, vitamina B12, folatos, etc.\nProf. Doutora Maria Augusta Soares",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Golpe de calor": {
+        "descricao": "O golpe de calor é uma doença que pode pôr a vida em perigo, que deriva de uma prolongada exposição ao calor e na qual uma pessoa não pode suar o suficiente para fazer descer a sua temperatura corporal.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Golpe de calor (Insolação)": {
+        "descricao": "O golpe de calor é uma doença que pode pôr a vida em perigo, que deriva de uma prolongada exposição ao calor e que decorre da falha dos mecanismos de sudação para fazer descer a sua temperatura corporal.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Gonorreia": {
+        "descricao": "Infeção bacteriana transmitida por contactos sexuais com pessoas infetadas.\nAgente: Neisseria gonorrhoeae.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Gota": {
+        "descricao": "A Gota é um distúrbio do metabolismo do ácido úrico através do qual este se deposita em vários tecidos do organismo, tais como articulações e tendões, na forma de cristais de urato de sódio, provocando inflamação.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Gravidez ectópica": {
+        "descricao": "Também denominada extra-uterina, refere-se à gravidez em que o feto se desenvolve fora da cavidade uterina, quer seja na trompa de Falópio, no canal cervical ou na cavidade pélvica ou abdominal.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Gripe": {
+        "descricao": "A gripe é uma doença contagiosa resultante da infecção pelo vírus influenza. O vírus influenza infecta o tracto respiratório (nariz, seios nasais, garganta, pulmões e ouvidos) podendo atingir diferentes espécies (humanos, aves, suínos, etc.).",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Guillain-Barré, Síndroma de": {
+        "descricao": "A síndroma de Guillain-Barré (polinevrite aguda ascendente) é uma forma de polineuropatia aguda rapidamente progressiva caracterizada por debilidade muscular que, por vezes, conduz à paralisia.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Halitose e Alteração do Paladar": {
+        "descricao": "Sintomas que acompanham muitas das afeções da boca ou que podem ser temporárias ou persistentes, neste caso podem resultar da degradação de proteínas pelas bactérias, habitualmente por doença gengival ou boca seca.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Hemangioma": {
+        "descricao": "É uma lesão vascular benigna e o tumor mais comum na infância. O quadro clínico pode variar muito, desde uma mancha vermelha brilhante a uma placa ou nódulo ao azul-violeta.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Hematomacrose": {
+        "descricao": "A hemocromatose é uma doença caracterizada pela ocorrência de depósito de ferro nos tecidos em consequência do seu excesso no organismo. Os principais locais de deposito são o fígado, o pâncreas, o coração e a hipófise, podendo resultar na perda gradativa de suas funções.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Hemocromatose Hereditária Primária": {
+        "descricao": "Este tipo de hemocromatose é a doença genética mais comum na população caucasiana, e resulta da herança de duas cópias defeituosas de um gene e caracteriza-se pela excessiva absorção de ferro da dieta.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Hemocromatose Secundária": {
+        "descricao": "Este tipo de hemocromatose é provocada por outra/s doença/s. As principais causas são as hemoglobinopatias, como anemias carregadoras de ferro, talassemia maior e anemia megaloblástica.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Hemofilia": {
+        "descricao": "O termo genérico \"hemofilia\" descreve um grupo de distúrbios da coagulação hereditários, nos quais existe uma anomalia permanente no mecanismo da coagulação do sangue.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Hemofilia A e B": {
+        "descricao": "Os factores da coagulação, que estão presentes no sangue, são representados em numeração romana de I a XII.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Hemorróidas": {
+        "descricao": "As hemorróidas são veias dilatadas e inflamadas no ânus e recto, que podem causar dor, comichão e sangramento. Como em qualquer outra parte do nosso corpo, esta região é vascularizada por artérias e veias, que recebem o nome de artérias e veias hemorroidais.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Hepatite": {
+        "descricao": "A hepatite é basicamente uma infecção no fígado. Existem vários tipos de hepatites e a gravidade da doença é variável em função disso e também dos danos já causados ao fígado quando descoberta. As hepatites virais podem ser agudas ou crónicas.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Hepatite A": {
+        "descricao": "Trata-se de uma infecção provocada pelo vírus da hepatite A (VHA) que é absorvido no aparelho digestivo e multiplica-se no fígado, causando neste órgão a inflamação denominada hepatite A.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Hepatite auto-imune": {
+        "descricao": "A hepatite auto-imune é uma doença inflamatória do fígado, progressiva, que pode evoluir para cirrose hepática.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Hepatite B": {
+        "descricao": "A hepatite B é provocada pelo Vírus da Hepatite B (VHB) e é a mais perigosa das hepatites. Os portadores podem desenvolver doenças hepáticas graves, como a cirrose e o cancro no fígado, contudo é possível fazer prevenção através da vacina da hepatite B, com uma eficácia de 95 por cento.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Hepatite C": {
+        "descricao": "É uma inflamação do fígado provocada por um vírus, que em muitos casos pode levar a falência hepática, cirrose e cancro.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Hepatite D": {
+        "descricao": "A hepatite D foi conhecida em 1977, ano em que foi descoberto o vírus que a provoca, o VHD ou vírus Delta como também é designado. A hepatite D só se manifesta em conjunto com a hepatite B, isto é, surge por co-infecção ou por superinfecção.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Hepatite E": {
+        "descricao": "A hepatite E resulta da infecção pelo vírus da hepatite E (VHE), é transmitida de pessoa a pessoa, através da água e de alimentos contaminados com matéria fecal.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Hepatite G": {
+        "descricao": "A hepatite G é provocada pelo vírus VHG e estima-se ser responsável por 0,3 por cento de todas as hepatites víricas. Desconhecem-se, ainda, todas as formas de contágio possíveis, mas sabe-se que a doença é transmitida, sobretudo, pelo contacto sanguíneo.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Herpes Genital": {
+        "descricao": "O herpes genital é uma doença crónica, recorrente e sexualmente transmissível provocada pelo vírus Herpes simplex.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Hiperglicemia": {
+        "descricao": "A hiperglicemia é uma concentração anormalmente alta de açúcar (glicose) no sangue. Consideram-se que valores acima de 126 mg/dl em jejum caracterizam indícios de diabetes. Valores acima de 200 mg/dl, em qualquer ocasião, confirmam o diagnóstico.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Hipersónia primária": {
+        "descricao": "Perturbação do sono em que se regista uma sonolência excessiva pelo menos durante um mês, evidenciada por episódios de sono nocturnos prolongados ou por episódios de sono diurnos ocorrendo quase todos os dias.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Hipertensão": {
+        "descricao": "A hipertensão arterial (HTA), conhecida popularmente como pressão alta, é uma das doenças com maior prevalência no mundo moderno e é caracterizada pelo aumento da pressão arterial, aferida com esfigmomanômetro (aparelho de pressão) ou com o tensímetro, tendo como causas a hereditariedade, a obes",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Hipertricose": {
+        "descricao": "Desenvolvimento anormal de pêlos numa região que não os possui ou que normalmente só apresenta uma penugem. Pode ser congénita ou adquirida, localizada ou generalizada.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Hipertrofia Benigna da Próstata (HBP)": {
+        "descricao": "Consiste num aumento da glândula e é conhecido pelo nome de hipertrofia benigna da próstata, muitas vezes referida pela sigla HBP. Com o aumento da esperança de vida, tem aumentado o número de doentes prostáticos. Em Portugal, realizam-se anualmente cerca de 10.000 operações por HBP.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Hipertrofia gengival": {
+        "descricao": "Doentes submetidos a terapêutica que ocasiona crescimento gengival apresentam mais dificuldade na remoção da placa pelo que devem ser observados pelo médico, sendo da responsabilidade do farmacêutico identificar estes casos e recomendar a consulta médica.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Hipocondria": {
+        "descricao": "A hipocondria é uma perturbação psiquiátrica em que o indivíduo, embora saudável, está preocupado, tem medo ou está convencido, de forma angustiante e obsessiva, há mais de meio ano, que tem uma doença grave, tendo-se para tal baseado numa interpretação errada de sintomas físicos.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Hipoglicemia": {
+        "descricao": "Designa o baixo nível de glicose no sangue. As causas podem ser variadas (consumo de álcool, jejum, alimentação insuficiente, esforço físico, consumo de medicamentos, etc.) e surgir em qualquer idade e indivíduo.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Hirsutismo": {
+        "descricao": "O hirsutismo é o crescimento excessivo de pêlo em zonas onde as mulheres habitualmente não o têm, já que o pêlo nestas zonas depende dos androgénios (hormonas masculinas), determinado por um conjunto de factores, normalmente de natureza endócrina ou tumoral que obrigam a uma abordagem médica.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Hodgkin, Doença de": {
+        "descricao": "A doença de Hodgkin, ou linfoma de Hodgkin, pertence a um grupo de neoplasias denominadas linfomas (termo genérico para designar os carcinomas que se desenvolvem no sistema linfático).",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "HPV - Vírus do Papiloma Humano": {
+        "descricao": "O que é o HPV?",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Icterícia": {
+        "descricao": "A icterícia é uma pigmentação amarelada da pele e do branco dos olhos (esclerótica), produzida por valores anormalmente elevados de pigmentos biliares (bilirrubina) no sangue.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Ictiose": {
+        "descricao": "A ictiose é um dos distúrbios cutâneos hereditários mais comuns e caracteriza-se por pele seca e escamosa. É considerada uma doença dermatológica congénita causada por uma anomalia no processo de regeneração da pele, pelos e unhas.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Idiotia": {
+        "descricao": "Grau mais grave de atraso mental (ologofrenia), caracterizado por um quociente de inteligência inferior a 20 e uma idade mental que não ultrapassa os três anos.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Impetigo": {
+        "descricao": "Infecção bacteriana altamente contagiosa, localizada na superfície da pele – mais frequentemente na face e mãos, embora possa surgir em qualquer parte do corpo – na qual existem pústulas cobertas de crostas espessas de cor amarela.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Incontinência urinária": {
+        "descricao": "Traduz-se na perda involuntária de urina. Calcula-se que mais de metade das mulheres após os cinquenta anos já tenha tido, pelo menos, um episódio de incontinência urinária.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Incontinência verbal": {
+        "descricao": "A fuga de ideias é uma alteração do funcionamento da expressão do pensamento. Ocorre quando há aceleração do discurso verbal, caracterizando-se pela incontinência verbal (logorreia).",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Infecção urinária": {
+        "descricao": "Mais frequente no sexo feminino, ocorre quando microrganismos infecciosos (bactérias, vírus, fungos e parasitas), invadem ou se multiplicam no aparelho urinário, causando infecção da bexiga, dos rins ou vias urinárias.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Infertilidade": {
+        "descricao": "A infertilidade é o resultado de uma falência orgânica devida à disfunção dos órgãos reprodutores, dos gâmetas ou do concepto. Um casal é infértil quando não alcança a gravidez desejada ao fim de um ano de vida sexual contínua sem métodos contraceptivos.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Insolação (golpe de calor)": {
+        "descricao": "A insolação é provavelmente o mais grave da exposição ao calor e ao Sol.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Insónia": {
+        "descricao": "A insónia é a dificuldade em conciliar o sono ou permanecer adormecido, ou uma alteração no padrão do sono que, ao despertar, leva à percepção de que o sono foi insuficiente.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Insuficiência cardíaca": {
+        "descricao": "Trata-se de uma doença, normalmente crónica e que afecta cerca de 2 por cento da população, em que a capacidade do coração bombear sangue para o resto o organismo está comprometida.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Intolerância à lactose": {
+        "descricao": "A intolerância à lactose é a incapacidade de digerir a lactose (açúcar do leite) devido à ausência ou quantidade insuficiente de enzimas digestivas.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Intolerância alimentar": {
+        "descricao": "Na intolerância alimentar ocorrem reacções adversas ocasionadas pelos alimentos, mas que não envolvem o sistema imunitário.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Intoxicação pelo álcool": {
+        "descricao": "O estado de intoxicação é a comummente conhecida embriaguez, que normalmente é obtida voluntariamente.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Iodo, Deficiência de": {
+        "descricao": "O iodo é necessário para a síntese das hormonas tiróides. Aproximadamente 80 por cento do iodo do corpo encontra-se na glândula tiróide, sobretudo nas hormonas tiróides. Os mariscos são uma fonte abundante de iodo.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Iodo, Excesso de": {
+        "descricao": "A intoxicação com iodo é provocada pelo consumo de quantidades muito grandes de iodo por dia (400 vezes a dose diária recomendada), por vezes em consequência de se viver perto do mar. O excesso de iodo pode provocar bócio e por vezes hipertiroidismo.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Jogo patológico": {
+        "descricao": "Transtorno psiquiátrico que, em termos genéricos, se caracteriza pela incapacidade do indivíduo controlar o hábito de jogar, apesar de todos os problemas – financeiros, familiares ou profissionais – que essa actividade possa implicar.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Kaposi, Sarcoma de": {
+        "descricao": "O sarcoma de Kaposi é um cancro que se origina nos vasos sanguíneos, geralmente da pele. O sarcoma de Kaposi é uma das formas de cancro mais frequentes nos doentes com SIDA (síndrome da imunodeficiência adquirida). Caracteriza-se por uma proliferação anómala dos vasos sanguíneos.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Kawasaki, Síndroma de": {
+        "descricao": "A síndroma de Kawasaki é uma doença que afecta principalmente as crianças com menos de 5 anos e provoca erupção cutânea, febre, inflamação dos gânglios linfáticos e, por vezes, inflamação do coração e das articulações.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Kwashiorkor": {
+        "descricao": "O kwashiorkor é uma doença que pode ser enquadrada no grupo das síndromas de má nutrição.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Lábio leporino": {
+        "descricao": "Cientificamente chamado de fissura labiopalatatina, trata-se de uma malformação congénita que se caracteriza por uma fenda resultante da não fusão dos tecidos e músculos da região oral, uma situação que pode restringir-se ao lábio superior ou estender-se à região do céu-da-boca.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Lalofobia": {
+        "descricao": "Medo patológico de falar na presença de outras pessoas ou em público.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Langerhans, Ilhéus de": {
+        "descricao": "São um grupo especial de células do pâncreas que produzem insulina e glucagon, substâncias que agem como importantes reguladores do metabolismo de açúcar.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Laringite": {
+        "descricao": "A laringite é o processo inflamatório da laringe. A causa mais frequente da laringite é uma infecção viral, mas pode estar associada, por exemplo, a uma infecção bacteriana, constipação, bronquite, gripe ou pneumonia.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Linfadenite": {
+        "descricao": "A linfadenite é a inflamação de um ou mais gânglios linfáticos causada por qualquer tipo de microrganismo (bactérias, vírus, protozoários, rickettsias ou fungos) que pode provocar linfadenite.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Língua negra cabeluda": {
+        "descricao": "A língua negra cabeluda pode surgir por prolongamento das papilas filiformes associadas ao crescimento de bactérias ou fungos produtores de pigmentos resultantes de desequilíbrio da flora oral. Estão frequentemente associados a esta situação as penicilinas e as tetraciclinas.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Lumbago agudo": {
+        "descricao": "Dor forte e súbita na zona lombar que dificulta ou impossibilita movimentos e que aparece na sequência de um esforço. Esta dor pode ser agravada pelos movimentos ou mesmo pelo simples acto de tossir ou espirrar. Os músculos da coluna, nádegas e coxas encontram-se, muitas vezes, doridos.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Lúpus": {
+        "descricao": "O lúpus eritematoso sistémico é uma doença auto-imune com episódios de inflamação nas articulações, tendões e outros tecidos conjuntivos e órgãos.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Mal nutrição": {
+        "descricao": "A malnutrição pode ser o resultado de uma diminuição da ingestão (desnutrição) ou de um consumo excessivo (hipernutrição). Ambas as condições são o resultado de um desequilíbrio entre as necessidades corporais e o consumo de nutrientes essenciais.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Malária": {
+        "descricao": "A malária é uma doença que envolve risco de vida, provocada por parasitas específicos, transmitidos por mosquitos. Há muito tempo considerava-se que esta doença era provocada pelo ar fétido dos pântanos, daí o nome “malária”, que significa “mau ar”. Em 1880, o Dr.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Mama, Cancro da": {
+        "descricao": "O cancro da mama é a forma de cancro mais comum na mulher. As taxas de incidência têm vindo a aumentar na segunda metade deste século.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Mania": {
+        "descricao": "Mania é, para a psiquiatria, um distúrbio mental caracterizado pela alteração de pensamento, com alteração comportamental dirigido, em geral, para uma determinada ideia fixa e com síndrome de quadro psicótico grave e agudo, característico, embora não exclusivo (mania secundária), do transtorno b",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Melanoma": {
+        "descricao": "O melanoma é um tipo de cancro de pele. Tem início nas células da pele - os melanócitos e é um dos tipos de cancro mais comum. O melanoma surge quando os melanócitos (células pigmentares) se tornam malignos.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Melasmo": {
+        "descricao": "O mesmo que cloasma ou máscara da gravidez, ou seja, manchas pigmentares que aparecem na cara (essencialmente na testa, queixo, maçãs do rosto e fontes) principalmente durante a gravidez, ainda que seja possível surgir em mulheres que tomam a “pílula” ou nas que são sujeitas à terapêutica de sub",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Menopausa": {
+        "descricao": "A menopausa é o momento na vida da mulher em que cessa a função cíclica dos ovários e a menstruação. A menopausa começa no final da última menstruação. No entanto, esse facto só é comprovado mais tarde, quando não há fluxo menstrual durante, pelo menos, 12 meses.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Menopausa artificial": {
+        "descricao": "A menopausa artificial deriva de uma intervenção médica que reduz ou interrompe a secreção hormonal dos ovários.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Menopausa prematura": {
+        "descricao": "A menopausa é prematura quando acontece antes dos 40 anos. Entre as suas causas destacam-se uma predisposição genética e doenças auto-imunes, nas quais se criam anticorpos que podem lesar várias glândulas, entre elas os ovários. O hábito de fumar também é associado à menopausa prematura.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Miocardiopatia dilatada": {
+        "descricao": "A miocardiopatia dilatada (MCD) caracteriza-se por um aumento da câmara ventricular, provocando uma diminuição da função e eficiência cardíaca, provocada por alterações em genes que codificam para a estrutura muscular do coração e calcula-se que afecte cerca de 1 em cada 3000 indivíduos.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Miocardiopatia hipertrófica": {
+        "descricao": "A miocardiopatia hipertrófica caracteriza-se por um aumento de espessura da parede do coração. A nível microscópico este aumento acompanha-se de outras alterações estruturais que causam diminuição da função cardíaca.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Miocardiopatia restritiva": {
+        "descricao": "A miocardiopatia restritiva é um grupo de perturbações do músculo cardíaco que se caracterizam por uma rigidez das paredes ventriculares (que não estão necessariamente espessadas), o que provoca uma resistência ao enchimento normal do sangue entre os batimentos.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Miocardiopatias": {
+        "descricao": "São doenças progressivas que alteram a estrutura e comprometem a função de bomba da parede muscular (miocárdio), das câmaras inferiores e maiores do coração (ventrículos).",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Miocardite": {
+        "descricao": "A miocardite é a inflamação da parede muscular (miocárdio – musculo do coração) das câmaras inferiores e maiores do coração (ventrículos). Esta doença é potencialmente grave e, muitas vezes, fatal (miocardite fulminante).",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Míope": {
+        "descricao": "Indivíduo que vê mal à distância, ou seja, é capaz de ver os objectos próximos de forma nítida e focada mas o mesmo não acontece com os que estão distantes.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Miopia": {
+        "descricao": "Miopia é o termo comum, mas o seu nome científico é hipometropia. É um defeito ocular que provoca um erro na focagem visual e dificulta o visionamento de objectos distantes.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Mitomaníaco": {
+        "descricao": "Indivíduo com tendência patológica para mentir ou para fabular.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Molusco Contagioso": {
+        "descricao": "Infeção limitada à pele causada pelo vírus Molluscum contagiosum. É transmitida no contacto pele com pele e é frequente nas crianças. Nos adultos, no entanto, é na maioria dos casos uma infeção sexualmente transmissível (IST).",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Mononucleose": {
+        "descricao": "Também conhecida como a ‘doença do beijo’, a mononucleose é uma doença infecciosa caracterizada por febre, dor de garganta e tumefacção dos gânglios linfáticos.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Morte Súbita Cardíaca": {
+        "descricao": "A morte súbita cardíaca é uma morte inesperada, cuja origem é a perda das funções cardíacas e estima-se que esta afete, anualmente, 14.000 pessoas em Portugal, sendo responsável por 1 em cada 5 mortes por doença cardiovascular.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Morte súbita, Síndrome de": {
+        "descricao": "Ocorre repentinamente e sem previsão. É a principal causa de morte, nos países desenvolvidos, nas crianças entre as duas semanas e os doze meses de vida. A maioria dos casos está associada ao sono e por isso é conhecida como “morte no berço”.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Munchausen, Síndrome de": {
+        "descricao": "A Síndrome de Münchhausen é um distúrbio psiquiátrico caracterizado pela simulação consciente, compulsiva, deliberada e contínua de sintomas e ainda pela provocação dos mesmos, sem que haja uma vantagem óbvia para tal atitude a não ser a de obter cuidados médicos e de enfermagem.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Nanismo": {
+        "descricao": "Relativo a uma estatura anormalmente baixa para a idade e raça.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Narcísica, Perturbação": {
+        "descricao": "Esta perturbação da personalidade caracteriza-se, segundo a American Psychiatric Association (APA), por um “padrão global de grandiosidade (em fantasia ou comportamento), necessidade de admiração e ausência de empatia, com começo na idade adulta”.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Narcolepsia": {
+        "descricao": "A narcolepsia é uma alteração pouco frequente do sono, que se caracteriza por crises recidivantes de sono durante as horas normais de vigília e também de cataplexia, paralisia do sono e alucinações.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Nariz entupido no bebé": {
+        "descricao": "O nariz entupido nos bebés é muito comum devido ao pequeno diâmetro das suas narinas, o que pode causar muito desconforto, uma vez que eles não sabem como se livrar do muco para conseguir respirar melhor.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Nascimento prematuro": {
+        "descricao": "Um parto pré-termo ou nascimento prematuro ocorre quando o recém-nascido nasce com menos de 37 semanas de idade gestacional (36 semanas e 6 dias ou menos. A prematuridade pode afectar o desenvolvimento da criança e, inclusivamente, ser a principal causa de morte pós parto.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Náusea": {
+        "descricao": "A náusea é uma sensação desagradável no abdómen que muitas vezes passa com o vómito. O vómito é a expulsão violenta do conteúdo do estômago através da boca.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Náuseas e vómitos": {
+        "descricao": "As náuseas e vómitos podem ser ocasionados por um conjunto diverso de situações, sendo frequentes por gastroenterite, o vómito da mulher grávida e o enjoo do movimento.\nDado que o vómito pode ter consequências graves, o doente deve consultar o seu médico se:",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Nefropatia diabética": {
+        "descricao": "A Nefropatia Diabética é a doença renal que resulta das lesões provocadas pela Diabetes Mellitus. É portanto uma complicação da diabetes que surge quando os vasos dos rins – que transportam sangue com impurezas para que estas sejam eliminadas através da urina – são lesados.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Neuropatia diabética": {
+        "descricao": "A neuropatia diabética resulta de várias alterações nos nervos cuja causa específica não está totalmente esclarecida. No entanto, sabe-se que uma concentração persistentemente elevada de açúcar no sangue que envolve as células nervosas desempenha um papel importante.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Nevo": {
+        "descricao": "Termo médico que descreve uma lesão na pele popularmente conhecida como mancha, pinta ou sinal. Trata-se de uma formação cutânea benigna que pode ou não ser saliente ou rugoso, sendo contudo possível que a partir dele se forme um melanoma maligno.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Nevos atípicos": {
+        "descricao": "Um nevo atípico ou displásico é um nevo cuja aparência é diferente da dos nevos comuns.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Nevos dérmicos": {
+        "descricao": "De ligeiramente elevados a uma forma papilomatosa, os nevos cutâneos podem variar desde cor-de-rosa a castanho claro ou castanho escuro. São tumores benignos e melanocíticos e o aparecimento de um melanoma com origem num nevo dérmica é um acontecimento raro.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Nicotina, Abstinência de": {
+        "descricao": "A característica essencial da Abstinência de Nicotina é uma síndrome característica de abstinência que se desenvolve após a cessação abrupta ou redução do uso de produtos contendo nicotina após um período prolongado (de pelo menos algumas semanas) de uso diário.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Niemann-Pick, Doença de": {
+        "descricao": "A doença de Niemann-Pick é uma perturbação hereditária em que a deficiência de uma enzima específica origina uma acumulação de uma substância do metabolismo das gorduras (esfingomielina) em órgãos como pulmões, cérebro ou fígado, entre outros.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Nocturnos, Terrores": {
+        "descricao": "Perturbação do sono em que se acorda de forma abrupta e aterrorizada, acompanhado de sinais de ansiedade intensa e ocorre, geralmente, nas primeiras horas de sono.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Nódoa negra": {
+        "descricao": "Expressão normalmente usada para designar uma equimose, ou seja, uma mancha devido à infiltração de sangue no tecido subcutâneo, na sequência geralmente de um traumatismo.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Obesidade": {
+        "descricao": "De acordo com a OMS, a obesidade é uma doença em que o excesso de gordura corporal acumulada pode atingir graus capazes de afectar a saúde.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Obnubilação": {
+        "descricao": "Alteração do estado da consciência. É mais frequente na epilepsia e nas síndromes pós-comocionais que resultam de um abalo do organismo provocado por um choque directo ou indirecto e desencadeiam uma série de perturbações funcionais, sem lesão orgânica manifesta.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Obsessão": {
+        "descricao": "Trata-se de uma mania, um pensamento fixo recorrente, do qual a pessoa somente consegue se libertar com ajuda profissional.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Obstipação": {
+        "descricao": "Também chamada de prisão de ventre é uma perturbação em que a pessoa tem evacuações incómodas ou pouco frequentes e as quais provocam dores e desconforto.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Obstipação na gravidez": {
+        "descricao": "É frequente ocorrer obstipação no 2º e 3º trimestre de gravidez à qual se atribui vários fatores: níveis elevados de progesterona que ocasionam relaxamento da musculatura intestinal; compressão resultante do aumento do volume do útero e, pela terapêutica com sais de ferro.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Olfacto, Perturbação do": {
+        "descricao": "Trata-se de uma perturbação frustrante, uma vez que afectam as faculdades da pessoa para desfrutar da comida, da bebida e dos aromas agradáveis.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Oligospaniomenorreia": {
+        "descricao": "Perturbação do ciclo menstrual devido a uma causa hormonal e que se caracteriza por uma duração anormal da menstruação, a qual excede os 45 dias.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Oncocitoma": {
+        "descricao": "Tumor de estrutura glandular, habitualmente benigno. A sua localização é variável: tiroideia, brônquios, glândulas salivares, rim. A maioria dos casos é assintomática e por isso são descobertos por acaso.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Onicomicose": {
+        "descricao": "A onicomicose é uma infecção que atinge as unhas, causada por fungos. As fontes de infecção podem ser o solo, animais, outras pessoas ou alicates e tesouras contaminados.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Onirismo": {
+        "descricao": "Estado de espírito em que este, em vigília, se absorve em sonhos, fantasias ou ideias quiméricas. Refere-se a um estado delirante, caracterizado por alucinações visuais, da sensibilidade geral e do foro muscular. A sensação de cair é um exemplo vulgar.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Orgasmo, Perturbação do": {
+        "descricao": "Traduz-se no atraso ou ausência de orgasmo, de forma regular ou esporádica, a seguir a uma fase de excitação sexual normal.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Osteoartrose": {
+        "descricao": "A osteoartrose é uma doença de natureza degenerativa que envolve toda a articulação: a cartilagem desgasta-se e o osso cresce e fica mais denso, formando os osteófitos, visíveis nas radiografias como “bicos de",
+        "causas": "As causas de osteoartrose são múltiplas: em geral, podemos dizer que a sobrecarga de uma articulação normal ou o uso normal de uma articulação anormal são as causas de artrose. Assim, é frequente encontrar no passado traumatismos – grandes ou pequenos, estes normalmente muito repetidos – como os que resultam de actividades desportivas ou profissionais, o excesso de peso, bem como outras doenças reumáticas ou malformações que deterioraram as articulações previamente. No entanto, existem muitos casos em que nenhuma causa é aparente ou em que apenas a hereditariedade é identificada.",
+        "sintomas": [
+            "Os principais sintomas da osteoartrose são a dor, a rigidez, a limitação dos movimentos e, em fases mais avançadas, as deformações. A dor tem um ritmo, isto é, um modo de ser ao longo do dia, que se convencionou chamar mecânico. Assim, o ritmo mecânico é caracterizado pelo facto de as dores se agravarem ao longo do dia, com os movimentos e com os esforços e melhorarem quando o doente repousa, em particular quando se deita. Por isso, regra geral, os doentes com osteoartrose não têm dores durante a noite e dormem bem, embora em alguns casos muito avançados de artrose da anca e do joelho, as dores possam também surgir durante a noite."
+        ],
+        "tratamento": "A osteoartrose não tem, hoje em dia, cura e o doente deve sabê-lo, mas tem tratamento, que pode permitir ao indivíduo afectado por esta doença levar uma vida completamente normal na imensa maioria dos casos."
+    },
+    "Osteopetrose": {
+        "descricao": "Doença que consiste numa perturbação hereditária que causa o aumento da densidade dos ossos e, consequentemente, vai provocar anomalias esqueléticas. Também conhecida por “doença dos ossos de mármore”.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Osteoporose": {
+        "descricao": "A osteoporose é uma doença óssea sistémica - generalizada a todo o esqueleto, que por si só não causa sintomas, caracterizada por uma densidade mineral óssea (DMO) diminuída e alterações da microarquitectura e da resistência ósseas que causam aumento da fragilidade óssea e, consequentemente, aum",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Otite": {
+        "descricao": "Otite é o termo médico usado para definir as infecções do ouvido. Esta infecção pode ocorrer no ouvido externo ou médio e ser aguda ou crónica.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Ovário, Cancro do": {
+        "descricao": "O cancro do ovário é a doença maligna mais mortal dos órgãos reprodutores femininos. A elevada taxa de mortalidade é atribuída ao facto de que, quando o cancro do ovário é detectado, já está em geral disseminado. Por isso pode atingir um tamanho considerável antes de provocar sintomas.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Ozena": {
+        "descricao": "Inflamação crónica da mucosa nasal, cujo principal sintoma é a formação de crostas que libertam um odor desagradável. Trata-se de uma doença crónica com mecanismo etiopatológico ainda desconhecido.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Palpitações": {
+        "descricao": "Sensações desagradáveis devido à percepção não habitual dos batimentos cardíacos. Porém, e devido a situações emocionais mais fortes, podem chegar a sentir-se batimentos cardíacos energéticos, rápidos e irregulares.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Paludismo": {
+        "descricao": "O paludismo (malária) é uma infecção dos glóbulos vermelhos causada pelo plasmodium, um organismo unicelular.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Papeira": {
+        "descricao": "A papeira ou, parotidite epidémica, é uma doença infecciosa aguda causada pelo vírus paramixovírus que provoca uma inflamação das glândulas salivares que ficam inchadas e pro",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Pápula": {
+        "descricao": "Uma pápula é uma elevação circunscrita da pele, de consistência sólida, na maioria dos casos com menos de 1 cm de diâmetro e que não desenvolve cicatriz.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Paragem cardíaca": {
+        "descricao": "Caracteriza-se pela ausência de contracções dos ventrículos e costuma apresentar-se como complicação de outras arritmias e de outras doenças cardiovasculares, ainda que não seja tão linear quanto isso, uma vez que as paragens cardíacas podem produzir-se repentinamente, mesmo em pessoas que nunca",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Paranóia": {
+        "descricao": "Abrange um conjunto de perturbações de vários níveis, que se traduzem por orgulho excessivo, desconfiança e susceptibilidade desmedida, falsidade do julgamento e interpretações erróneas.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Parassónia": {
+        "descricao": "É definida como manifestações noturnas anormais durante o sono, em forma de movimentos, que levam à interrupção do sono. Este problema é mais comum em crianças do que em adultos.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Parkinson, Doença de": {
+        "descricao": "A doença de Parkinson é uma perturbação degenerativa e lentamente progressiva do sistema nervoso que apresenta várias características particulares: tremor em repouso, lentidão na iniciação de movimentos e rigidez muscular.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Pediculose púbica": {
+        "descricao": "É uma infeção sexualmente transmissível (IST), causada pelo Pthirus pubis, (vulgarmente conhecido por “chato”).\nEm 30% dos casos os doentes têm outras IST.\nContágio:",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Picada de abelha": {
+        "descricao": "Situação em que veneno é injectado através de um ferrão. Uma pessoa normal pode tolerar, sem problemas, 10 picadas por cada meio quilo de peso corporal. Isto significa que o adulto poderá suportar mais de 1000 picadas, enquanto 500 poderão matar uma criança.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Piromania": {
+        "descricao": "A piromania é uma doença que se caracteriza pelo comportamento repetido de atear fogo de forma propositada e intencional.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Pneumonia": {
+        "descricao": "A pneumonia é uma infecção dos pulmões que afecta os pequenos sacos de ar (alvéolos) e os tecidos circundantes.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Poligrafia": {
+        "descricao": "Repetição anormal e incessante, de forma incoerente, das mesmas palavras ou de fragmentos de frases da escrita.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Poliomielite": {
+        "descricao": "A poliomielite é uma doença infeciosa, gerada por três serotipos diferentes de vírus, pertencentes ao género Enterovirus: polivírus 1, 2 e 3.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Pulpite": {
+        "descricao": "A pulpite é a inflamação dolorosa da polpa dentária, um tecido com numerosos nervos e vasos sanguíneos que está situado no interior dos dentes.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Queilite": {
+        "descricao": "Trata-se de uma inflamação dolorosa acompanhada de uma pequena fístula nos cantos da boca. Pode ocorrer em ambos os lados ou ser apenas unilateral.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Queimadura solar": {
+        "descricao": "Uma queimadura solar é produzida pela super exposição à radiação ultravioleta (UV), geralmente dos raios solares.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Quemose": {
+        "descricao": "Infiltração edematosa da conjuntiva ocular, na maior parte das vezes de origem inflamatória, dando origem a um rebordo saliente, avermelhado, em volta da córnea. Encontra-se em certas afecções oculares agudas.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Queratose Actínica": {
+        "descricao": "As queratoses actínicas são lesões superficiais que podem ser vistas nas áreas de pele que tenham sido expostas a luz solar intensa durante longos períodos de tempo.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Queratose seborreica": {
+        "descricao": "Lesões queratinocíticas benignas, ligeira ou acentuadamente elevadas, as queratoses seborreicas são normalmente caracterizadas por uma superfície rugosa e uma variedade de cores, do amarelado ao cinza, castanho ou preto.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Quincke, Doença de": {
+        "descricao": "Trata-se de um tipo de urticária que se manifesta de forma muito intensa, cuja principal característica é o inchaço. Manifesta-se frequentemente na face, com grande edema (inchaço) de lábios e pálpebras.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Quiromegalia": {
+        "descricao": "Hipertrofia, especialmente no sentido da largura, de uma ou das duas mãos.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Quisto sebáceo": {
+        "descricao": "Um quisto sebáceo (quisto queratinoso) é uma tumoração de crescimento lento que contém pele morta, excreções cutâneas e outras partículas cutâneas.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Raiva": {
+        "descricao": "A raiva é uma infecção viral do tecido cerebral que causa irritação e inflamação deste e da espinhal medula. O vírus da raiva está presente na saliva dos animais infectados. Um animal com raiva transmite a infecção a outros animais ou aos humanos ao morder-lhes ou, por vezes, ao lambê-los.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Raquitismo": {
+        "descricao": "Raquitismo é uma doença decorrente da mineralização inadequada do osso em crescimento, ou seja, da placa epifisária. Está entre as doenças mais frequentes da infância em muitos países desenvolvidos.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Raynaud, Doença de": {
+        "descricao": "Doença que se caracteriza por perturbações vasomotoras simétricas das extremidades que evoluem por surtos e cujas fases sucessivas são: isquemia (paragem ou insuficiência do fornecimento de sangue a um tecido ou órgão), cianose dolorosa (coloração azul da pele) e asfixia local com sensação de de",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Refsum, Doença de": {
+        "descricao": "Doença metabólica hereditária degenerativa associada à ausência de um sistema enzimático que, em condições normais, degrada o fitol fornecido pela alimentação (frutas e legumes verdes) e que tem por consequência a acumulação de ácido fitânico no sangue e nos tecidos.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Resfriado": {
+        "descricao": "O mesmo que constipação. Infecção viral do revestimento do nariz, dos seios perinasais, da garganta e das vias respiratórias. Em geral, os primeiros sintomas são mal-estar no nariz e na garganta e tosse.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Reumatismo": {
+        "descricao": "Refere-se a um grupo de afecções, agudas ou crónicas, com origens diversas e muitas vezes desconhecidas, normalmente dolorosas, acompanhadas por tumefacção (aumento de volume) das partes moles e que atinge sobretudo as articulações.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Ricto": {
+        "descricao": "Contracções espasmódicas (contracção involuntária súbita e transitória de um ou mais músculos) dos músculos dilatadores da boca, que concede à face a aparência de riso forçado. Observa-se em certas neuroses e em algumas doenças graves como o tétano.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Rinite Alérgica": {
+        "descricao": "Rinite alérgica é a inflamação das mucosas da cavidade nasal causada por uma reacção exagerada do sistema imune aos alergénios do ar. O que causa a reacção alérgica não é a acção directa e activa do alergénio, mas sim a resposta exagerada do organismo ao contacto com o mesmo.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Rinorragia": {
+        "descricao": "Refere-se ao corrimento de sangue pelas cavidades nasais. A hemorragia pode ter uma proveniência que não a mucosa nasal (uma fractura da base do crânio).",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Romberg, Sinal de": {
+        "descricao": "Incapacidade para se manter na posição de pé (ataxia estática), com os calcanhares juntos e os olhos fechados, que se traduz por oscilações que podem chegar à queda.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Rubéola": {
+        "descricao": "A rubéola é um dos cinco exantemas clássicos da infância (outros são a varicela, sarampo, eritema infeccioso e o exantema súbito). Era uma doença frequente e habitualmente benigna, mas, actualmente em Portugal, devido à vacinação é rara.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Rubéola Congénita, Sindroma de": {
+        "descricao": "A infecção pelo vírus da rubéola durante a gravidez pode levar à infecção do feto com alterações que podem ser muito graves como atraso de crescimento intra-uterino, cataratas, surdez e alterações cardíacas.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Rubor": {
+        "descricao": "Rubor é a vermelhidão da pele que pode ocorrer em qualquer área do corpo, em qualquer extensão, em virtude da dilatação dos vasos sanguíneos e consequentemente, maior fluxo de sangue naquela área. É um dos quatro sinais característicos da inflamação: rubor, calor, dor e tumor.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Sarampo": {
+        "descricao": "O sarampo (rubéola, sarampo de 9 dias) é uma infecção viral muito contagiosa que produz diversos sintomas e uma erupção característica.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Sarna": {
+        "descricao": "A sarna, cientificamente chamada de escabiose, é uma doença de pele que provoca muita comichão e é causada por um pequeno ácaro, parasita que escava a superfície da pele. A doença transmite-se através do contacto com outra pessoa com sarna.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Scheuermann, Doença de": {
+        "descricao": "A doença de Scheuermann, nomeada em homenagem ao médico radiologista dinamarquês Holger Werfel Scheuermann, é um transtorno do crescimento da coluna vertebral, que pode levar a uma dolorosa má-postura.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Senilidade": {
+        "descricao": "Referente à velhice e, em consequência à diminuição das faculdades físicas e intelectuais no idoso. Há um enfraquecimento fisiológico e sobretudo mental, acompanhado da desorganização mental.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Sensibilidade dos dentes": {
+        "descricao": "Pode ocorrer sensibilidade aumentada com dor aguda e de curta duração, aos doces, ao frio e ao quente como resultado de retração das gengivas e exposição da dentina.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Septicemia": {
+        "descricao": "A septicemia é uma doença extremamente grave e correspondente à invasão maciça ou persistente de bactérias no sangue.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Sequestro": {
+        "descricao": "Trata-se de um fragmento ósseo necrosado (processo de degenerescência que acaba por destruir uma célula ou um tecido) saliente do resto do osso, proveniente de um foco de osteíte (afecção inflamatória de um osso) ou osteomielite (inflamação aguda ou crónica da parte cortical de um osso).",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Seropositividade": {
+        "descricao": "Estado caracterizado pela presença de resultados positivos em testes serológicos específicos, realizados com vista ao diagnóstico de uma doença. Diz-se que um indivíduo é seropositivo quando é portador de anticorpos no sangue que provem a presença de um agente infeccioso.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Serosidade": {
+        "descricao": "Líquido seroso, semelhante ao soro sanguíneo, que está normalmente concentrado nas cavidades serosas. Em determinadas situações patológicas podem ser segregadas em excesso, infiltrando os tecidos (edema) ou as cavidades fechadas (ascite, hidrotórax, pericardite).",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Sialite": {
+        "descricao": "Inflamação de uma glândula ou de um canal salivar.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Sida": {
+        "descricao": "A SIDA é provocada pelo Vírus da Imunodeficiência Humana (VIH), que penetra no organismo por contacto com uma pessoa infectada. A transmissão pode acontecer de três formas: relações sexuais; contacto com sangue infectado; de mãe para filho, durante a gravidez ou o parto e pela amamentação.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Siderose": {
+        "descricao": "A siderose resulta da inalação do óxido de ferro; a baritose, da inalação de sulfato de bário e a estanose, da inalação de partículas de óxido de estanho.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Sífilis": {
+        "descricao": "O que é a sífilis?A Sífilis é uma infeção sexualmente transmissível, causada por uma bactéria chamada Treponema pallidum.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Sigmatismo": {
+        "descricao": "O sigmatismo é caracterizado pela pronúncia incorrecta de fonemas, como s, e, x, j, ou z. Está associado a desordens nos órgãos fonoarticulatórios, dentários ou craniofaciais, ou ainda, sucção contínua de chupeta, respiração bucal e próteses dentárias.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Silicose": {
+        "descricao": "A silicose é a formação permanente de tecido cicatricial nos pulmões causada pela inalação de pó de sílica (quartzo).",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Simulação": {
+        "descricao": "Disfunção clinicamente significativa. O seu aspecto essencial é a produção intencional de sintomas falsos ou exagerados de ordem física ou psicológica, motivados por incentivos externos, tais como, evitar o serviço militar ou o trabalho e a obtenção de compensações económicas ou drogas.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Sinalgia": {
+        "descricao": "Dor localizada, que se desencadeia num ponto afastado daquele onde existe uma lesão.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Síncope": {
+        "descricao": "A síncope surge quando, por diversos motivos, ocorre uma diminuição súbita da irrigação cerebral. Deste modo, as suas células ficam privadas de sangue, o qual transporta oxigénio e energia, tão necessários ao seu correcto funcionamento.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Síndroma da Boca Queimada": {
+        "descricao": "Sensação semelhante a ter ingerido um líquido quente, que causa ardor e dor da boca, lábios e língua, não estando esclarecida a sua causa, admitindo-se o envolvimento dos nervos que envolvem a boca, podendo estar envolvidos medicamentos, deficiências nutricionais, alergia a alimentos ou aditivos",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Síndrome de Angelman": {
+        "descricao": "A síndrome de Angelman é uma doença genético-neurológica que se estima que afecte um em cada 15 mil bebés. Descoberto em meados da década de 60 pelo médico Harry Angelman, esta síndrome é causada, na maioria dos casos, pela ausência ou imperfeição do cromossoma 15 herdado da mãe.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Síndrome de Sjögren": {
+        "descricao": "A Síndrome de Sjögren (SS) é uma doença auto imune crónica, em que o sistema imunológico do próprio corpo do doente erroneamente ataca as glândulas produtoras de lágrimas e saliva.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Sinusite": {
+        "descricao": "A sinusite aguda define-se como uma inflamação de um ou mais dos seios perinasais que persiste durante menos de 3 semanas. Nos adultos, a sinusite é sobretudo maxilar, seguida por ordem de frequência de envolvimento pela infecção dos seios etmoidais, frontais e esfenoidais.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Sonambulismo": {
+        "descricao": "O sonambulismo é um transtorno do sono que se inicia e é comum na infância. Refere-se ao acto de andar de forma semiconsciente durante o sono sem se aperceber disso.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Spina bífida": {
+        "descricao": "A Spina Bífida, uma grave anormalidade congénita do sistema nervoso, desenvolve-se nos dois primeiros meses de gestação e representa um defeito na formação do tubo neural. A tradução literal do termo científico “Spina Bífida” significa “Espinha dividida em dois”.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Talalgia": {
+        "descricao": "A talalgia é definida como a dor na parte posterior do pé, o calcanhar e atinge pessoas de várias idades, mas é mais frequente no sexo feminino. A talalgia pode ser de etiologia inflamatória, infecciosa, metabólica, anatómica ou biomecânica.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Talassemia": {
+        "descricao": "O termo talassemia engloba uma série de patologias anémicas resultantes de um defeito genético hereditário responsável por uma insuficiência na síntese das globinas, as cadeias proteicas constituintes da hemoglobina.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Taquicardia": {
+        "descricao": "Ocorre quando o ritmo cardíaco é superior a cem batimentos por minuto. Ou seja, no adulto saudável em repouso, o ritmo do batimento do coração varia entre 60 e 100 batimentos por minuto. Na taquicardia este ritmo é superior, o coração bate mais rápido.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Taquicronia": {
+        "descricao": "Sensação de que o tempo passa mais depressa. É um quadro que se pode registar em situações como mania, epilepsia ou ansiedade.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Tendinite": {
+        "descricao": "Uma tendinite é um processo inflamatório de um tendão.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Terrores nocturnos, Perturbação de": {
+        "descricao": "Os terrores nocturnos constituem uma perturbação na qual uma pessoa acorda repentinamente aparentando um estado de medo intenso mas sem contacto com o mundo exterior. Os terrores nocturnos encontram-se relacionados com o sonambulismo e ocorrem geralmente em crianças jovens.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Tétano": {
+        "descricao": "O tétano é uma doença aguda provocada pela toxina da clostridium tetani, uma bactéria que penetra no organismo através de uma ferida, depois do contacto da mesma com a terra (onde a bactéria consegue sobreviver durante muito tempo), ou através de lesões (",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Tetraplegia": {
+        "descricao": "A tetraplegia ou quadriplegia trata-se da paralisia dos quatro membros secundários a lesão medular ao nível da coluna vertebral cervical. À impossibilidade de mover os membros associam-se, em grau variável, distúrbios da mecânica respiratória, podendo causar demência leve.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Tifóide, Febre": {
+        "descricao": "A febre tifóide é provocada pela salmonella typhi, uma enterobactéria que penetra no organismo através do tudo digestivo.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Tiroidite": {
+        "descricao": "A tiroidite é uma inflamação da glândula tiróide, provoca um hipertiroidismo transitório muitas vezes seguido de um hipotiroidismo transitório, ou então não produz mudança nenhuma no funcionamento da tiróide.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Tiroidite de Hashimoto": {
+        "descricao": "Esta tiroidite auto-imune é o tipo mais frequente e a causa mais habitual de hipotiroidismo. Por razões desconhecidas, o organismo vira-se contra si mesmo numa reacção auto-imune e cria anticorpos que atacam a glândula tiróide.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Tiroidite granulomatosa subaguda": {
+        "descricao": "A tiroidite granulomatosa subaguda (de células gigantes), que provavelmente se deve a um vírus, começa de forma mais brusca que a tiroidite de Hashimoto.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Tiroidite linfocitária silenciosa": {
+        "descricao": "Incide com maior frequência nas mulheres, habitualmente logo depois do parto, e faz com que a tiróide aumente de volume sem provocar dor.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Torpor": {
+        "descricao": "Torpor refere-se a um estado de entorpecimento de uma parte do corpo. No entanto, utiliza-se também aquando do estado em que se regista sonolência, indolência, enfraquecimento, pouca acção e indiferença, havendo apenas reacção aos estímulos que, por exemplo, sejam mais dolorosos.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Tosse": {
+        "descricao": "Reflexo que permite proteger as estruturas broncopulmunares de bactérias, fungos, vírus, fumo, poeiras ou gases tóxicos que impedem a ventilação normal e dificultam a oxigenação do sangue.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Tourette, Perturbação de Gilles de la": {
+        "descricao": "A Síndrome de Gilles de la Tourette (ST) é um distúrbio neuropsiquiátrico caracterizado por múltiplos tiques motores e fónicos, que flutuam de intensidade, com um padrão característico de exacerbações e remissões ao longo do tempo.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Toxoplasmose": {
+        "descricao": "A toxoplasmose é uma infecção causada pelo toxoplasma gondii, um parasita unicelular. A reprodução sexual do parasita só tem lugar nas células que revestem o intestino dos gatos. Os ovos (oocistos) encontram-se nas fezes dos gatos.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Tricotilomania": {
+        "descricao": "Perturbação em que o indivíduo é incapaz de resistir em arrancar os seus cabelos ou pelos. É um distúrbio no controlo dos impulsos inserido no âmbito das doenças obsessivas-compulsivas.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Trigliceridemida": {
+        "descricao": "Respeitante à concentração de triglicéridos - um tipo de gorduras - no sangue.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Triplopia": {
+        "descricao": "Perturbação em que o indivíduo tem a percepção de três imagens de um mesmo objecto.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Triquinose": {
+        "descricao": "A triquinose é uma infecção parasitária causada pela trichinella spiralis. A triquinose está presente na maior parte do mundo, mas é muito rara ou não existe nas regiões em que os porcos são alimentados com verduras de raiz, como em França.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Trissomia 21": {
+        "descricao": "Síndrome de Down ou Trissomia 21 é um distúrbio genético causado pela presença de um cromossoma 21 extra total ou parcialmente. Recebe o nome em homenagem a John Langdon Down, médico britânico que descreveu a síndrome em 1862.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Tsé-Tsé, Mosca": {
+        "descricao": "Tsé-tsé é o nome da mosca glossina palpalis que transmite a doença do sono, causada pelo tripanossoma brucei. A Tsé-tsé não é a causa dessa doença, apenas a transporta. Como muitos insectos, essa mosca não põe ovos, mas sim as larvas, directamente no solo, onde se enterram.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Tuberculose": {
+        "descricao": "A tuberculose é uma doença infecciosa causada por um micróbio chamado “bacilo de Koch”. É uma doença contagiosa, que se transmite de pessoa para pessoa e que atinge sobretudo os pulmões.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Úlcera Gástrica": {
+        "descricao": "Todas as situações em que haja suspeita de patologia como úlcera péptica ou cancro devem ser referenciadas ao médico.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Unha encravada": {
+        "descricao": "A unha encravada ocorre quando uma de suas pontas enterra na pele ao seu redor. Isto acontece porque a pele forma uma barreira ao seu crescimento e, como a unha não pára de crescer e é mais dura, ela penetra na pele causando dor e inflamação.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Urticária": {
+        "descricao": "A urticária é uma reacção da pele caracterizada pela presença de pequenas elevações de cor clara ou então avermelhadas (pápulas).",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Vaquez, Doença de": {
+        "descricao": "A doença de Vaquez é uma doença de causa desconhecida que afecta o adulto e que se caracteriza pelo aumento anormal de glóbulos vermelhos (7 a 14 milhões por milímetro cúbico).",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Varicela": {
+        "descricao": "A doença é causada por um vírus da família dos herpesvírus humanos, chamado vírus varicela-zoster que é também o agente etiológico do herpes zoster, mais conhecido como zona.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Varíola": {
+        "descricao": "A doença foi erradicada na década de 60 e por isso a vacina, que antes era obrigatória, já não existe. Deixou de ser obrigatória em 1982 quando se viajava dum país para o outro.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Variz": {
+        "descricao": "Uma variz é uma veia dilatada e a base de incidência é mais comum na mulher do que no homem, embora existam também muito homens com este problema. Raramente as varizes iniciam nas camadas jovens antes dos 14 anos de idade e quando acontece tem origem em problemas congénitos.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Vasoplegia": {
+        "descricao": "Vasodilatação generalizada, devido a uma paralisia vasomotora. Pode ser provocada por medicamentos.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Verruga": {
+        "descricao": "As verrugas são lesões benignas da pele, produzida pelo Vírus do Papiloma Humano (HPV).",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Verruga filiforme": {
+        "descricao": "Mais frequente na face e no pescoço, este tipo de verruga forma lesão digitiforme (semelhantes a um dedo) que se projecta da superfície da pele. É mais facilmente encontrada nas pessoas idosas.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Verruga genital ou condiloma acuminado": {
+        "descricao": "Este tipo de verruga é encontrado na região genital ou perianal. As lesões são mais macias e, quando localizadas nas mucosas, podem ser húmidas. A coloração varia de esbranquiçada a escura e o tamanho de pequeninos pontos a grandes lesões vegetantes (aspecto de couve-flor).",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Verruga peri-ungueal": {
+        "descricao": "São as verrugas vulgares que se localizam em redor das unhas. Devido ao facto de se estenderem para dentro da prega ungueal, este tipo de verruga pode ser de tratamento mais difícil.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Verruga plana juvenil": {
+        "descricao": "As lesões são pequenas, de superfície plana e em grande número. As regiões mais atingidas são a face e os membros. Mais frequentes em adolescentes.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Verruga plantar": {
+        "descricao": "Localizadas nas plantas dos pés estas lesões crescem para dentro da pele, devido ao peso do corpo impedir o seu crescimento para fora.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Vigorexia ": {
+        "descricao": "Afetando sobretudo indivíduos do sexo masculino, a Vigorexia é classificada como um distúrbio que leva a distorção da imagem corporal e que pode levar jovens à obsessão pelo aumento da massa muscular, ao recurso a horas de ginásio e a uma alimentação com restrições.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "VIH": {
+        "descricao": "Esta abreviatura, adoptada pela Organização Mundial de Saúde, designa o Vírus da Imunodeficiência Humana (VIH). Há quem prefira adoptar a abreviatura inglesa Human Immunodeficiency Vírus (HIV).",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Virilismo": {
+        "descricao": "Doença que se caracteriza pela presença, no sexo feminino, de características sexuais secundárias de tipo masculino, ocorrendo simultaneamente uma regressão das características sexuais do sexo feminino.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Vitiligo": {
+        "descricao": "É uma doença caracterizada por lesões cutâneas de hipopigmentação, ou seja, manchas brancas na pele com uma distribuição característica. O vitiligo é uma doença de causa desconhecida, mas existe uma história familiar da doença em 30 por cento dos doentes.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Von Willebrand, Doença de": {
+        "descricao": "A doença de von Willebrand (DvW) é o distúrbio hemorrágico hereditário mais comum e afecta tanto homens como mulheres (a prevalência mundial é superior a 1 por cento).",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Waterhouse-Friedrichsen, Síndrome de": {
+        "descricao": "A síndroma de Waterhouse-Friderichsen, uma infecção de evolução rápida e catastrófica, é causada pela neisseria meningitidis; produz diarreia grave, vómitos, convulsões, hemorragias internas, hipotensão, choque e, frequentemente, a morte.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Weil, Síndrome de": {
+        "descricao": "A doença de Weil é uma forma grave de leptospirose que provoca febre contínua, estupor e uma menor capacidade de coagulação do sangue, que ocasiona hemorragias dentro dos tecidos.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Werner, Síndrome de": {
+        "descricao": "A síndrome de Werner é uma doença caracterizada pelo envelhecimento precoce, aproximadamente em cerca de 7 vezes em relação à taxa normal, sendo por isso, também denominada por progeria (velhice).",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Wernicke, Afasia de": {
+        "descricao": "A Afasia de Wernicke, também conhecida por afasia fluente, de recepção ou sensorial, é uma alteração na linguagem oral e escrita que se caracteriza por não haver uma comunicação precisa, pois as palavras expressas são referidas como sopa de letras, sem ordem e confusas.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "West Nile, Vírus": {
+        "descricao": "Microrganismo transmitido por insectos e detectado pela primeira vez no Vale do Nilo.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "West, Síndrome de": {
+        "descricao": "A síndrome de West consiste numa encefalopatia epiléptica que ocorre entre os quatro e os sete meses de idade e se traduz em espasmos de flexão, paragem de desenvolvimento psicomotor e que pode implicar um atraso ou retrocesso intelectual.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Whipple, Doença": {
+        "descricao": "A doença de whipple foi inicialmente descrita há quase 100 anos mas só em 1999 é que o microrganismo responsável pela doença - tropheryma whipplei - foi cultivado, o seu genoma sequenciado e a sua susceptibilidade aos antibióticos definida.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Whipple, Tríade de": {
+        "descricao": "Nome dado ao grupo de três características que definem uma crise de hipoglicemia, do ponto de vista clínico: glicemia inferior a 50 mg/dl, sintomas associados à diminuição da concentração sanguínea de glicose e reversão ou melhoria desses sintomas com a elevação da glicemia.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Wilms, Tumor de": {
+        "descricao": "O tumor de Wilms (nefroblastoma) é um cancro nos rins que pode aparecer no feto e ser assintomático durante anos após o nascimento. Normalmente, manifesta-se em menores de 5 anos, embora de vez em quando apareça em crianças mais velhas e raramente em adultos.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Wilson, Doença de": {
+        "descricao": "A doença de Wilson deve o seu nome a Samuel Wilson que, pela primeira vez, a descreveu, em 1912, como \"degenerescência lenticular progressiva\": uma doença neurológica familiar e letal, acompanhada de doença hepática crónica que conduz à cirrose.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Wiskott-Aldrich, Síndrome de": {
+        "descricao": "A síndroma de Wiskott-Aldrich afecta apenas as crianças e causa eczema, uma contagem baixa de plaquetas e uma deficiência combinada de linfócitos B e T que provoca infecções repetidas.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Wolff-Parkinson-White, Síndrome de": {
+        "descricao": "A síndroma de Wolff-Parkinson-White é uma arritmia cardíaca em que os impulsos eléctricos são conduzidos ao longo de uma via acessória desde as aurículas aos ventrículos, o que provoca episódios de taquicardia. É a mais frequente das perturbações que afectam as vias acessórias.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Wolman, Doença de": {
+        "descricao": "A doença de Wolman é uma perturbação hereditária que se verifica quando se acumulam tipos específicos de colesterol e de glicéridos nos tecidos.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "X-Frágil, Síndrome do": {
+        "descricao": "A síndrome do X-Frágil é uma doença genética e hereditária ligada ao cromossoma X, e a causa mais frequente de atraso mental hereditário. Calcula-se que afecte 1 em cada 4.000 rapazes e 1 em cada 6.000 raparigas (dados internacionais). Não se trata, por isso, de uma doença muito rara.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Xantodermia": {
+        "descricao": "Coloração amarela da pele, tipo de icterícia localizada em determinadas áreas da pele, como por exemplo, a palma das mãos. Pode ocorrer na anemia hemolítica, doença de Biermer, encefalopatia urémica, escorbuto ou hipotiroidismo.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Xantoma": {
+        "descricao": "Depósito de gordura (colesterol) na pele, tendões ou ossos que se apresenta sob a forma de manchas ou nódulos. É mais frequente nos cotovelos, joelhos, pés e mãos. Esta lesão na pele é indolor e é muitas vezes associada à presença de diabetes.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Xantopsia": {
+        "descricao": "Perturbação da visão associada à icterícia (coloração amarelada da pele e mucosas devido à deposição de um pigmento existente no sangue), em que os objectos observados parecem ter uma tonalidade amarelada.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Xantose": {
+        "descricao": "Coloração amarelada ou alaranjada da mucosa bucal, muitas vezes proveniente da perda de sangue.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Xenofilia": {
+        "descricao": "Interesse, simpatia ou atracção exagerada por tudo o que é diferente ou estrangeiro.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Xerasia": {
+        "descricao": "Doença que impossibilita o crescimento do cabelo e sobrancelhas. Secura dos pelos.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Xeroderma pigmentosa": {
+        "descricao": "É uma doença genética hereditária caracterizada por uma fotossensibilidade extrema que pode originar secura da pele, envelhecimento precoce e múltiplas lesões na pele, nomeadamente a susceptibilidade para o aparecimento de tumores cutâneos malignos.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Xerodermia": {
+        "descricao": "A xerodermia é uma alteração da pele que se caracteriza por secura e descamação excessiva.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Xerofagia": {
+        "descricao": "Regime ou dieta seca, baseada na ingestão de alimentos secos e marcada pela ausência total de líquidos. Associada frequentemente a práticas religiosas, como por exemplo, a abstinência dos cristãos primitivos que durante a Quaresma comiam só alimentos secos ou não cozidos.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Xeroftalmia": {
+        "descricao": "Xeroftalmia ou olho seco é uma doença muito comum, caracterizada pela não-produção de lágrimas. Manifesta-se com ardor, sensação de corpo estranho, visão enevoada ou lacrimejo. Desenvolve a opacidade da córnea e provoca a secura das conjuntivas, que perdem o brilho e se tornam esbranquiçadas.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Xerostomia": {
+        "descricao": "A xerostomia é a sensação subjectiva de boca seca, consequente ou não da diminuição da função das glândulas salivares, com alterações quer na quantidade, quer na qualidade da saliva.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Yersinia pestis": {
+        "descricao": "A Yersinia pestis é uma bactéria altamente patogénica e é responsável pela peste negra, que se transmite ao ser humano através da picada de pulga de roedores contaminados.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Yersinose": {
+        "descricao": "Doença infecciosa humana - yersiniose enterocolitica - adquirida no decorrer da ingestão de água não tratada, carne de porco contaminada, crua ou mal cozida, ingestão de leite não pasteurizado.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Zellweger, Síndrome de": {
+        "descricao": "A síndrome de Zellweger é uma doença rara, congénita, caracterizada pela redução ou ausência de peroxissomas nas células do fígado, rins e cérebro.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Zigomicose": {
+        "descricao": "A zigomicose, também chamada de mucormicose, é uma infecção fúngica rara, mas altamente invasiva que tem como agente etiológico, fungos. Normalmente estes fungos habitam o solo e folhas secas encontradas no chão, sendo que a infecção resulta da inalação.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Zincopenia": {
+        "descricao": "Carência do organismo em zinco.Clinicamente, observam-se lesões na pele junto aos cantos da boca e fossas nasais, onde a pele se torna avermelhada, formando por vezes crosta.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Zollinger-Ellison, Síndrome de": {
+        "descricao": "A síndroma de Zollinger-Ellison, ou gastrinoma, está geralmente associada a um tumor das células pancreáticas produtoras de gastrina, uma hormona responsável pela hipersecreção gástrica e pelo aparecimento de úlceras pépticas (gástricas e/ou duodenais) agudas e recorrentes.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Zona": {
+        "descricao": "A zona (ou herpes zóster) é uma doença infecciosa causada pela reactivação do vírus da varicela, que produz erupções cutâneas muito dolorosas, constituídas por bolhas (vesículas) cheias de líquido, vários anos apó",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Zoonose": {
+        "descricao": "Zoonoses são doenças de animais transmissíveis ao homem (mordidas ou picadas), bem como aquelas transmitidas do homem para os animais. Os agentes que desencadeiam essas afecções podem ser microrganismos diversos, como bactérias, fungos, vírus, helmintos e rickettsias.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Zoopsia": {
+        "descricao": "Zoopsia é a visão de animais sob a forma de alucinação. Trata-se de uma perturbação frequente no decurso de uma intoxicação alcoólica. Os animais visualizados podem ser aterrorizadores, promovendo ansiedade e apreensão.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    },
+    "Zumbido": {
+        "descricao": "Os zumbidos - acufenos ou tinnitus - são um sintoma extremamente perturbador para o doente. Muitos doentes vêm a sua vida completamente alterada por causa do zumbido.",
+        "causas": "",
+        "sintomas": [],
+        "tratamento": ""
+    }
+}
