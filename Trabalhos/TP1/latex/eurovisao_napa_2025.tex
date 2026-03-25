@@ -1,0 +1,120 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[portuguese]{babel}
+\usepackage{hyperref}
+
+\title{Eurovisao Napa 2025}
+\author{Tomás Pinto - Scripting no Processamento de Linguagem Natural}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+Com base no modelo de n-grams desenvolvido e no método de scoring aplicado, as três frases selecionadas do texto são:
+\begin{itemize}
+    \item E o mais bonito tem sido o que acontece longe das câmaras, ou seja, conversas reais sobre música, países, histórias de vida.
+    \item Nascidos numa cave na ilha da Madeira, os NAPA formaram-se entre amigos que partilhavam a paixão pela música.
+    \item Numa conversa descontraída, entre gargalhadas cúmplices e reflexões honestas, os NAPA abriram o coração sobre a reação intensa que se seguiu à vitória no Festival da Canção — “foi duro, mas sabíamos ao que vínhamos”, admitem.
+\end{itemize}
+\end{abstract}
+
+\section{Texto Original com Entidades (NER)}
+Eurovisão 2025 | \textbf{Entrevista} (LOC) aos NAPA, representantes de \textbf{Portugal} (LOC) na \textbf{Suíça} (LOC)
+
+
+
+A \textbf{Magazine} (ORG).HD esteve à conversa com os \textbf{NAPA} (ORG) , os representantes de \textbf{Portugal} (LOC) na \textbf{Eurovisão 2025} (MISC) , que este ano acontece em \textbf{Basileia} (LOC), na \textbf{Suíça} (LOC). A vitória no \textbf{Festival da Canção} (PER) foi inesperada e, para muitos, controversa -- a escolha da banda madeirense gerou divisões nas redes sociais, com elogios à sua autenticidade e críticas ao sistema de voto e o alegado afastamento dos padrões da música eurovisiva. Com o tempo, a poeira parece ter assentado, os ânimos acalmaram e o interesse em torno da banda deu lugar a uma expectativa palpável.
+
+
+
+Para quem continua a dizer que esta não é uma canção "eurovisiva", vale a pena recordar que a \textbf{Eurovisão} (LOC) nunca foi sobre fórmulas fixas. O palco europeu é sinónimo de diversidade, onde cabem todos os géneros, todas as vozes e todas as emoções, independentemente dos resultados.
+
+
+
+A proposta dos \textbf{NAPA} (ORG) é delicada, melancólica e honesta, como tantas outras que ali passaram em edições anteriores. Mais do que uma competição, a \textbf{Eurovisão} (LOC) é uma celebração da identidade de cada país e, nesse sentido, a canção que \textbf{Portugal} (LOC) leva em 2025 é profundamente nossa.
+
+
+
+"Deslocado" é essencialmente uma história de migração e pertença. Nascidos numa cave na \textbf{ilha da Madeira} (LOC), os \textbf{NAPA} (ORG) formaram-se entre amigos que partilhavam a paixão pela música.
+
+
+
+Carregam no som e nas letras as influências de \textbf{Arctic Monkeys} (ORG) , \textbf{Red Hot Chili Peppers} (ORG) , \textbf{The Beatles} (ORG) , \textbf{Caetano Veloso} (PER) e \textbf{Tom Jobim} (PER) -- uma mescla improvável que resulta numa identidade muito própria. O primeiro álbum, \textbf{" Senso Comum "} (MISC), chegou em 2019 e apresentou ao público a sua veia melódica e espírito introspectivo.
+
+
+
+Em 2023, lançaram "Logo Se Vê", um disco mais maduro e seguro. Depois da primeira digressão nacional em 2024, a banda prepara agora o seu terceiro trabalho para o final de 2025. Mas, antes disso, o grande palco da \textbf{Basileia} (LOC) chama por eles.
+
+
+
+\textbf{Guilherme Gomes} (PER) , \textbf{Lourenço Gomes} (PER) , \textbf{Francisco Sousa} (PER) , \textbf{Diogo Góis} (PER) e \textbf{João Rodrigues} (PER) falaram connosco sobre esta nova fase: as críticas que enfrentaram, o apoio que tem vindo a crescer e a canção com que querem tocar a \textbf{Europa} (LOC).
+
+
+
+Numa conversa descontraída, entre gargalhadas cúmplices e reflexões honestas, os \textbf{NAPA} (ORG) abriram o coração sobre a reação intensa que se seguiu à vitória no \textbf{Festival da Canção} (PER) -- "foi duro, mas sabíamos ao que vínhamos\textbf{"} (MISC), admitem. Falaram da liberdade criativa que sempre defenderam desde os seus inícios, e de como transformaram a controvérsia numa força mobilizadora. Uma coisa é certa: os NAPA vão à \textbf{Eurovisão} (LOC) de cabeça erguida.
+
+
+
+MHD: Será que nos poderiam revelar o processo criativo por detrás desta canção?
+
+
+
+NAPA: O processo foi… nós convidámo-nos a nós próprios para fazer esta canção para o \textbf{Festival da Canção} (PER) . E eu já tinha esta música na gaveta há algum tempo. Ia para outro projeto, um álbum só de músicas sobre a \textbf{Madeira} (LOC). Mas depois percebi que seria ideal levá-la ao festival, porque conta a nossa história. Somos todos da \textbf{Madeira} (LOC), e aos 18 anos fomos estudar para \textbf{Lisboa} (LOC). Esse sentimento de adaptação a uma cidade nova, longe da família, foi sempre um desafio. Estive anos à procura das palavras certas para descrever isso, e acho que finalmente consegui.
+
+
+
+A música ultrapassou a história pessoal e tornou-se um hino nacional. Como é que vêm esta transmutação da música, com a qual muitos agora se identificam?
+
+
+
+A música conta uma história pessoal, mas é uma história que está sempre a acontecer. Apanhámos um pedacinho -- cinco rapazes da \textbf{Madeira} (LOC) -- mas há séculos que há portugueses a sair para procurar novas oportunidades. Hoje em dia continua a ser assim, principalmente por causa das dificuldades cá. E também sentimos que quanto mais pessoal é o que escreves, mais criativo se torna. Às vezes, se falares do teu jardinzinho, toda a gente quer saber como é esse jardim -- e ele pode ser mais parecido com o dos outros do que pensa.
+
+
+
+Como têm corrido os ensaios? Há alguma coisa que estão a ajustar? E o que podemos esperar no dia 13 de maio?
+
+
+
+Os ensaios aqui na \textbf{Basileia} (LOC) têm corrido bem. No primeiro dia foi aquele impacto de estar num palco gigante, com luzes e um \textbf{LED} (ORG) ball até ao chão. Mas sentimo-nos bem. A performance está como idealizámos, com pequenos ajustes. A verdade é que temos vindo a preparar isto há mais de dois meses. Agora, ver tudo materializado, rever os vídeos, ver como tudo encaixa no que imaginámos -- tem sido mesmo fixe.
+
+
+
+E como tem sido o contacto com outros artistas da \textbf{Eurovisão?} (MISC) Já eram fãs ou é tudo novo para vocês?
+
+
+
+Estávamos um bocado a leste deste mundo. \textbf{Claro} (ORG) que sabíamos do impacto da \textbf{Eurovisão} (LOC) e da vitória do \textbf{Salvador Sobral} (LOC), mas não conhecíamos a dimensão que isto tem. Entretanto, já conhecemos vários artistas nas pre-parties de \textbf{Madrid} (LOC) e \textbf{Amesterdão} (LOC). E o mais bonito tem sido o que acontece longe das câmaras, ou seja, conversas reais sobre música, países, histórias de vida. Essa ligação tem sido das coisas mais marcantes nesta experiência.
+
+
+
+Sei que já têm concertos marcados para os próximos meses. Mas para além disso, há planos para um álbum ou colaborações com outros artistas portugueses?
+
+
+
+\textbf{Calma} (PER)! \textbf{Calma!} (MISC) (risos) \textbf{Sim} (PER), já temos um álbum planeado. Ainda falta gravá-lo, mas as músicas estão feitas. E temos uma canção pronta para sair logo depois da \textbf{Eurovisão} (LOC). Não podemos revelar muito, mas vai ser bom. Queremos aproveitar esta exposição e lançar coisas rapidamente. Temos material guardado mesmo a pensar neste momento.
+
+
+
+E quanto às vossas influências musicais? Que artistas vos inspiram?
+
+
+
+Entre nós temos gostos muito semelhantes. A nível de banda , fomos influenciados por \textbf{Arctic Monkeys} (ORG), \textbf{Radiohead} (ORG), \textbf{Caetano Veloso} (PER), \textbf{Chico Buarque} (PER), \textbf{Los Hermanos} (ORG)… Também \textbf{Bon Iver} (ORG), \textbf{Mac DeMarco} (PER), \textbf{os Beatles} (ORG). E os \textbf{Bala Desejo} (ORG), uma banda brasileira mais recente. \textbf{Em Portugal} (LOC), claro que os \textbf{Capitão Fausto} (PER) são uma grande referência para escrevermos em português. Podemos dizer que também temos uma referência visual da artista madeirense \textbf{Lourdes de Castro} (PER). Foi ela que inspirou o visual da nossa performance. As roupas são da \textbf{Constança Entrudo} (PER), também ela madeirense.
+
+
+
+Que mensagem gostariam de deixar aos portugueses que estão fora e que vão assistir à vossa performance?
+
+
+
+A todos os portugueses lá fora -- se gostam da nossa música, se se identificam com a mensagem, votem no dia 13 de maio. Vamos representar todos os deslocados. \textbf{Percebemos} (LOC), ao partilhar esta música, que somos muitos. Muitos deslocados, portugueses e não só. E sentimos mesmo essa força coletiva.
+
+\vspace{1cm}
+\begin{thebibliography}{9}
+\bibitem{eurovisao_napa_2025}
+    Fonte analisada: \texttt{eurovisao\_napa\_2025}. Texto processado automaticamente.
+\end{thebibliography}
+
+\end{document}
