@@ -1,0 +1,14 @@
+TPC
+
+meter o exercicio da aula a funcionar - FEITO
+
+treinar o modelo SPACY com o ficheiro (iob que vai estar no github) e comparar o resultados do modelo SPACY com o da aula
+
+spacy --help
+
+ir aos slides do spacy ver os comandos:
+spacy convert -c iob train_iob.iob ./datasets
+spacy init config config.cfg --pipeline ner --lang py
+spacy train config.cfg --output -/outputs
+
+ver qual dá melhor e qual dá pior
